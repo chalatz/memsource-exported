@@ -1,0 +1,43 @@
+---
+id: 17547
+title: Increasing Communication Through Conversations
+date: 2017-08-30T08:53:21+00:00
+author: admin
+layout: post
+guid: http://memsource.elcaptain.cz/?p=17547/
+permalink: /2017/08/30/increasing-communication-through-conversations/
+fake_id:
+  - ""
+main_logo_heading:
+  - ""
+transparent_logo_heading:
+  - ""
+floating_logo_heading:
+  - ""
+bottom_logo_heading:
+  - ""
+favicon_heading:
+  - ""
+categories:
+  - Memsource Blog
+  - New Features
+---
+A new conversation feature in Memsource’s web and desktop editors allows all users involved in a specific project to more easily communicate, reducing confusion and eliminating the need for unnecessary emails.
+
+&nbsp;
+
+<a class="dt-pswp-item" href="http://www.memsource.com/wp-content/uploads/2017/10/Comments.png" data-dt-img-description="" data-large\_image\_width="478" data-large\_image\_height="542"><img class="size-medium wp-image-17549 alignright" src="http://www.memsource.com/wp-content/uploads/2017/10/Comments-265x300.png" alt="" width="265" height="300" /></a>The conversations are added by clicking on the speech bubble to the right of the segment status column and are displayed as in a thread-like communication. They can be attributed to specific segments, or even phrases within a segment, allowing translators and project managers to easily discuss questions and issues with translations, context, and phrases.
+
+The comments are also part of the Quality Assurance check, and any comments not marked as Resolved will be flagged when the QA is run. Users can then return to the comments to address any outstanding issues or conversations. Biz Team and Biz Ultimate users who use the Rejected by a Reviewer workflow step can also leave a comment to expand on the reason for the rejection.
+
+#### Introducing LQA
+
+Users of Ultimate and Biz Ultimate editions can also benefit from the new Language Quality Assessment (LQA) feature within conversations. LQA provides feedback either on entire segments or only specific section of them by selecting an issue category (fluency, terminology, style, etc.) and by indicating the severity of the issue that needs to be addressed (Neutral, Minor, Major, or Critical). Issue categories and severities are customizable and can be edited by admins in Setup -> LQA Settings.
+
+<a class="dt-pswp-item" href="http://www.memsource.com/wp-content/uploads/2017/10/Add-LQA-e1503652004704.png" data-dt-img-description="" data-large\_image\_width="348" data-large\_image\_height="208"><img class="size-medium wp-image-17550 alignright" src="http://www.memsource.com/wp-content/uploads/2017/10/Add-LQA-e1503652004704-300x179.png" alt="" width="300" height="179" /></a>The comments and LQA are pushed both upstream and downstream in the workflow to provide all necessary information to everyone involved in the project. This means translators can justify their wording or incorrect use of terminology to avoid false positive LQA warnings that may occur as a result of miscommunication.
+
+—
+
+To learn more about conversations and LQA, visit our <a href="https://help.memsource.com/hc/en-us/articles/115003462171-Conversations-in-Memsource-Editors" rel="noopener">Support Center</a>.
+
+Our new LQA feature is in Beta – do you have some feedback or suggestions for improvement? Say hi to our [Support Team](mailto:support@memsource.com) and let them know your thoughts.
