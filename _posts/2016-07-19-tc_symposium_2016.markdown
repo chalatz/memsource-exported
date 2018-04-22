@@ -1,0 +1,50 @@
+---
+author: junkokato
+comments: true
+date: 2016-07-19 04:13:28+00:00
+layout: post
+link: https://www.memsource.com/ja/blog/2016/07/19/tc_symposium_2016/
+slug: tc_symposium_2016
+title: TCシンポジウム2016に出展します
+wordpress_id: 7969
+categories:
+- イベント
+---
+
+
+
+Memsource (メムソース）は、2016年8月24日（水）・25日（木）、新宿 工学院大学にて開催されるテクニカルコミュニケーションシンポジウム 2016 (東京開催）に出展致します。
+詳細はこちら：[http://www.jtca.org/symposium/](http://www.jtca.org/symposium/)
+
+Memsource日本オフィスから、当日、下記ふたつのプログラムにも参加します。
+
+**■ミニセッション：「クラウド化する翻訳技術〜今後の活用の道筋〜」**
+[http://www.jtca.org/symposium/panel_mini_tokyo.html#02](http://www.jtca.org/symposium/panel_mini_tokyo.html#02)
+
+日時：8月25日（木）10時〜11時
+<!-- more -->
+【セッションの主旨＆ポイント】
+昨今、急速に活用が進んでいるクラウドベースのTMS（翻訳管理システム）について、普及し始めている背景を説明。欧米の代表的な活用事例なども交え、参加者にクラウドベースの新しいテクノロジーを紐解き、参加者の不安を解消する情報提供の場とする。
+（日本オフィス 加藤じゅんこ がパネリストのひとりとして参加します）
+
+
+
+**■TC関連商品紹介：「翻訳支援ツールMemsource〜翻訳環境の共有化で品質向上と業務効率化〜」**
+[http://www.jtca.org/symposium/product_tokyo.html#14](http://www.jtca.org/symposium/product_tokyo.html#14)
+
+日時：8月25日（木）15時半〜16時半
+Memsourceのご活用事例と共に、クラウド型翻訳支援ツールMemsourceの特長をご紹介します。
+お客様（[ビードットアイジャパン伊藤様](/ja/business_interactive_japan_itosama/)）　とのジョイントプレゼンテーションとなります。
+
+-----------
+ブースにもお立ち寄り頂けましたら幸いです。お会いできることを楽しみにしております。
+
+
+
+
+*本イベント出展ほか、ご不明点等ございましたらこちらまでお気軽にお問合せください
+
+
+
+
+

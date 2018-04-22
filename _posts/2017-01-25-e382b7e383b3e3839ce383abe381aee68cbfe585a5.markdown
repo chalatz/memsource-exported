@@ -1,0 +1,15 @@
+---
+author: Akira.Popal
+comments: true
+date: 2017-01-25 15:48:59+00:00
+layout: post
+link: https://www.memsource.com/ja/blog/2017/01/25/%e3%82%b7%e3%83%b3%e3%83%9c%e3%83%ab%e3%81%ae%e6%8c%bf%e5%85%a5/
+slug: '%e3%82%b7%e3%83%b3%e3%83%9c%e3%83%ab%e3%81%ae%e6%8c%bf%e5%85%a5'
+title: シンボルの挿入
+wordpress_id: 11100
+categories:
+- 新機能
+---
+
+[![insert_symbols](http://www.memsource.com/wp-content/uploads/2017/01/Insert_symbols.png)](http://www.memsource.com/wp-content/uploads/2017/01/Insert_symbols.png)デスクトップの[Memsource Editor version 6.201.6](http://www.memsource.com/download/)に特殊文字やシンボルの挿入機能が登場しました。今まで仕方なく他のアプリケーションからコピー＆ペーストしていた皆様、大変お待たせしました。これにより、変わった装飾文字なども編集画面に直接入力できるようになりました。
+文字の一覧を表示するにはショートカットキー「**Ctrl + Shift + L**」を利用するか、メニューの**Edit → Insert Symbol → More Symbols**をクリックしてください。特殊文字やシンボルはUnicodeのブロックごとにまとめられているので、ウィンドウ右上からサブセットを選択することで、通貨記号や数学記号など、必要な記号を簡単に探すことができます。

@@ -1,0 +1,19 @@
+---
+author: vaclavb
+comments: true
+date: 2017-07-26 07:03:43+00:00
+layout: post
+link: https://www.memsource.com/blog/2017/07/26/16249/
+slug: '16249'
+title: Connector to Sunda MT
+wordpress_id: 16249
+categories:
+- New Features
+tags:
+- project managers
+- admins
+---
+
+Based on the request by one of our major customers we have added a machine translation connector to [Sunda MT](https://www.sunda.fi/en/index.html) .
+
+Sunda is a secure and high-quality machine translation engine that supports translation between Finnish and English.

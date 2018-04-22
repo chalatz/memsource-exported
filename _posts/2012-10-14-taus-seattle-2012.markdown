@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2012-10-14 23:16:46+00:00
+layout: post
+link: https://www.memsource.com/blog/2012/10/15/taus-seattle-2012/
+slug: taus-seattle-2012
+title: TAUS Seattle 2012
+wordpress_id: 1193
+categories:
+- Events
+---
+
+[![](/wp-content/uploads/2012/10/taus-user-conference.png)](http://www.translationautomation.com/conferences/taus-user-conference-2012)
+
+Meet Memsource at the 2012 [TAUS User Conference](http://www.translationautomation.com/conferences/taus-user-conference-2012), which takes place from 15 to 16 October 2012 in Seattle, USA. Visit Memsource booth in the Collaboration Pavilion and/or attend a presentation delivered by Memsource CEO, David Canek: "Machine Translation vs. Translation Memory?"<!-- more -->

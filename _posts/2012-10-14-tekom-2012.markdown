@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2012-10-14 23:30:06+00:00
+layout: post
+link: https://www.memsource.com/blog/2012/10/15/tekom-2012/
+slug: tekom-2012
+title: Tekom 2012
+wordpress_id: 1202
+categories:
+- Events
+tags:
+- events
+---
+
+[![](/wp-content/uploads/2012/10/tekom.png)](http://conferences.tekom.de/tcworld12/for-participants/conference-program/)Memsource will exhibit at the 2012 [Tekom Conference](http://conferences.tekom.de/tcworld12/for-participants/conference-program/), one of Europe's largest language industry events, taking place in Wiesbaden, Germany from 23 to 25 October 2012.
+On the first day of the conference, Michael Enderstein (CEO, ditto KG) will share ditto's experiments with machine translation post-editing and also in general with cloud-based translation technologies and in particular Memsource Cloud. The presentation will be held in German: "EINFÜHRUNG VON MASCHINELLEN ÜBERSETZUNGSPROZESSEN IN EINER MITTELSTÄNDISCHEN ‎ÜBERSETZUNGSAGENTUR"<!-- more -->

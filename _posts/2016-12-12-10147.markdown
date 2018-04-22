@@ -1,0 +1,65 @@
+---
+author: Akira.Popal
+comments: true
+date: 2016-12-12 22:18:57+00:00
+layout: post
+link: https://www.memsource.com/ja/blog/2016/12/12/10147/
+slug: '10147'
+title: 第26回JTF翻訳祭とMemsourceユーザー交流会のお礼とご報告
+wordpress_id: 10147
+categories:
+- イベント
+---
+
+
+
+[![usermeetuptokyo2016everyone](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Everyone.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Everyone.jpg)日本翻訳連盟が主催する第26回JTF翻訳祭が11月29日に開催されました。翻訳業界の未来を考える上でとても貴重な情報が満載で、翻訳者、翻訳会社、発注者など様々な立場の方がお集まりになり大盛況でした。こちらにMemsourceも出展し、当日は多くの方にブースにお立ち寄り頂きました。改めてお礼申し上げます。また、その翌日に東京で行ったMemsourceユーザー交流会にも多数の方にお越し頂き、おかげさまで活気ある会となりました。両イベントの様子をご紹介いたします。
+
+<!-- more -->
+
+
+## JTF翻訳祭
+
+
+翻訳業界の恒例行事である本イベントも第26回目を迎え、今年は例年以上に多くの方が参加され、各プレゼンテーションには立ち見が出るほどの盛況でした。Memsourceの出展ブースにはチェコ本社からセールスディレクターのJosefも駆けつけ、Memsourceにご興味をお持ちの方や既にお使いの方の疑問にお答えしました。
+
+日本マーケティングマネージャーの加藤は、パネルディスカッション「場外乱闘の翻訳支援ツール対決！」と製品プレゼンテーションに登壇しました。ディスカッションは、「翻訳支援ツールの普及が進み日々の業務で利用される翻訳者や使用を義務づける翻訳会社が増えていく中で、改めてそのメリットとデメリットを問う」という内容でしたが、参加者それぞれにこだわりがあり、90分という時間はあっという間に過ぎていきました。この議論は今後もますます発展していくことでしょう。
+
+製品プレゼンテーションでは基本的な機能の説明に加え、実際に業務でMemsourceを使用されている[トランスレーション・ビジネス・システム・ジャパン](http://tbsj.jp/)(TBSJ)社共同創業者・テクニカル翻訳部部長のPaul O‘Hare様をお迎えして、導入に至る経緯や導入後の効果などをお伺いしました。その後の質疑応答では、多くの方の関心事項であるセキュリティに関する質問を頂戴しましたが、実例を交えてMemsourceのセキュリティ対策についてお話しさせて頂くことができました。
+[![rejtffestival2016membooth](http://www.memsource.com/wp-content/uploads/2016/12/reJTFFestival2016MemBooth.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/reJTFFestival2016MemBooth.jpg)[![JTFFestival2016KatoPresentation](http://www.memsource.com/wp-content/uploads/2016/12/JTFFestival2016KatoPresentation.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/JTFFestival2016KatoPresentation.jpg)
+_Memsourceブースとパネルディスカッションの様子_
+
+また、今回はブースで頂いたお名刺の中から抽選で一名様に知る人ぞ知る名酒、チェコワインをプレゼントするPraiz Drawを行いました。当選された方には、チェコの職人気質が生む上質なワインをご堪能頂けたと存じます。
+
+[caption id="attachment_10158" align="alignnone" width="350"][![jtffestival2016praizedraw](http://www.memsource.com/wp-content/uploads/2016/12/reJTFFestival2016PraizeDraw.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/reJTFFestival2016PraizeDraw.jpg) 幸運な一名様にチェコワインとグラスをプレゼント[/caption]
+
+
+## Memsourceユーザー交流会
+
+
+そして翌日の11月30日には東京都豊島区でユーザー交流会を開催いたしました。平日の日中にも関わらず、遠方からお見えの方も含め多くの方にご参加頂き充実した催しとなりました。
+
+参加者の皆さまに事前のアンケートで特に知りたい点をお伺いし、その内容に沿って前半は加藤から基本機能のデモと新機能のご紹介をさせて頂きました。Memsourceは皆さまのご意見を反映したアップデートに注力しており、使いやすさはそのままに、次々と新機能が追加されています。その中でもプロジェクト管理の自動化を大きく助ける[プロジェクト自動作成機能](http://wiki.memsource.com/wiki/Automated_Project_Creation)(リンクは英語ヘルプ)と[オートメーションウィジェット](http://www.memsource.com/ja/blog/2016/09/05/automationwidget/)を画面で解説しました。
+
+後半はJosefから、外部ソフトウェアとの連携を可能にする[APIの活用](http://wiki.memsource.com/wiki/Memsource_API/ja)やMemsourceのデータを様々な形でグラフにして業務状況を可視化する機能についてご紹介しました。
+
+[![usermeetuptokyo2016kato](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Kato.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Kato.jpg) [![usermeetuptokyo2016lunch1](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Lunch1.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Lunch1.jpg)
+
+[![usermeetuptokyo2016lunch3](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Lunch3.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Lunch3.jpg) [![usermeetuptokyo2016lunch4](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Lunch4.jpg)](http://www.memsource.com/wp-content/uploads/2016/12/reUserMeetupTokyo2016Lunch4.jpg)
+_ユーザー交流会の様子_
+
+その後の昼食会ではチェコのワインをご用意し、Memsourceスタッフが皆さまの疑問にお答えする時間とさせて頂きました。また有志によるじゃんけん大会を行い、こちらでも強運の一名様にチェコワインとワイングラスをプレゼントしました。
+短いお時間ではありましたが、参加者様にとって、疑問を少しでも解消させる場だけでなく、ユーザー様同士の交流の機会としてもお楽しみ頂き、スタッフ一同幸いに感じております。
+
+Memsourceでは今後も同様のイベントの開催を計画しております。皆さまのご参加をお待ちしております。
+
+本記事やMemsourceについてのご質問は[こちら](mailto:japan@memsource.com)までお気軽にお寄せください。
+
+**この記事の投稿者**
+
+![Popal Akira](/wp-content/uploads/2016/09/PPP-e1473631567202-879x1024.jpg)Popal Akira
+
+Memsource 日本語翻訳・コンテンツ作成担当。
+翻訳を生業とする両親の下、幼い頃から翻訳とは大変な仕事だなと感じていたにもかかわらず、気がついたら同じ道を歩んでいました。
+
+

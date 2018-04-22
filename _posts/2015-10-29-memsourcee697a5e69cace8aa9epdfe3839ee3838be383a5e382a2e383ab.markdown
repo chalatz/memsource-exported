@@ -1,0 +1,33 @@
+---
+author: Sarah
+comments: true
+date: 2015-10-29 08:42:03+00:00
+layout: post
+link: https://www.memsource.com/ja/blog/2015/10/29/memsource%e6%97%a5%e6%9c%ac%e8%aa%9epdf%e3%83%9e%e3%83%8b%e3%83%a5%e3%82%a2%e3%83%ab/
+slug: memsource%e6%97%a5%e6%9c%ac%e8%aa%9epdf%e3%83%9e%e3%83%8b%e3%83%a5%e3%82%a2%e3%83%ab
+title: Memsource日本語PDFマニュアル
+wordpress_id: 5434
+categories:
+- カテゴリーなし
+- 高度な機能
+tags:
+- マニュアル
+---
+
+日本語PDFマニュアルができました。
+Memsource Cloudマニュアルと、Memsource Linguist版マニュアルのふたつをご用意しております。
+こちらからダウンロードして頂けます。
+
+[![icon_pdf](/wp-content/uploads/2015/06/icon_pdf.png)](http://createmore.jpn.org/memsource/special_page/pdfmanual/)
+
+Linguist版マニュアルには、ステータスの変更、Memsourceエディタのインストール/初期設定、
+Memsourceエディタの使い方を掲載しております。
+
+Memsource Cloudマニュアルは、プロジェクトマネージャー向マニュアルとなります。
+Memsource Cloud上でのプロジェクト/ジョブの作成、翻訳メモリ/用語ベースの設定、一括翻訳、
+翻訳者への案件ご依頼メール送信といった一連の操作をご説明しています。
+
+マニュアルはPDF派という方、ぜひご活用ください。
+
+（マニュアルは、Memsource Certified Trainer 加藤じゅんこ が作成したものとなります。
+東京を拠点にトレーニング・コンサルティングをしております。)

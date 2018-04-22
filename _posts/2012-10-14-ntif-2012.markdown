@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2012-10-14 23:41:19+00:00
+layout: post
+link: https://www.memsource.com/blog/2012/10/15/ntif-2012/
+slug: ntif-2012
+title: NTIF 2012
+wordpress_id: 1213
+categories:
+- Events
+---
+
+[![](/wp-content/uploads/2012/10/ntif.png)](http://www.ntif.se/)Memsource is a sponsor and exhibitor at the [Nordic Translation Industry Forum](http://www.ntif.se/), which will take place from 22 to 23 November 2012 in Copenhagen, Denmark this year. You are welcome to attend our booth there to get a demo from Josef Kubovsky, Memsource Business Development Manager or David Canek, Memsource CEO.<!-- more -->
