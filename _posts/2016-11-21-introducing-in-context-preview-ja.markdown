@@ -55,7 +55,7 @@ tags:
 
 下記のグラフは**Memsourceで最も翻訳されている上位10種類**のファイルタイプです。現時点でMemsource上でのプレビューが可能なものは赤いチェックが入っています。InDesignファイルは[FrontLabと連携する](http://wiki.memsource.com/wiki/Memsource_Cloud_User_Manual#Integrations)ことでPDF形式のプレビュー機能を利用できます(手順等は[こちら](/ja/ja-memsource-cloud-5-3-multilingual-excel-analytics-indesign-preview/)の記事をご参照ください。）
 
-[caption id="attachment_9634" align="aligncenter" width="800"][![Top 10 Most Common File Types in Memsource - the In-Context Preview is available for six formats.](/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png)](http://www.memsource.com/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png) 【Memsourceで翻訳される上位10種類のファイルの内、現時点で6種類のファイルをサポート】[/caption]
+[![Top 10 Most Common File Types in Memsource - the In-Context Preview is available for six formats.](/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png)](http://www.memsource.com/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png) 【Memsourceで翻訳される上位10種類のファイルの内、現時点で6種類のファイルをサポート】
 
 
 

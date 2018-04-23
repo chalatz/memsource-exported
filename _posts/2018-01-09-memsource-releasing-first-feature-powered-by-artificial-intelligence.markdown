@@ -125,7 +125,7 @@ The non-translatables feature can be activated in both the analysis and pre-tran
 ## The Launch of an AI Team
 
 
-[caption id="attachment_21193" align="alignright" width="1413"][![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg) The Memsource AI team, led by Dalibor Frívaldský (top, right)[/caption]
+[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg) The Memsource AI team, led by Dalibor Frívaldský (top, right)
 
 
 

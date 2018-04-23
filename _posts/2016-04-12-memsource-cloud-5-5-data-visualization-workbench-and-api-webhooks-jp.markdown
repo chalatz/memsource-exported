@@ -66,7 +66,7 @@ Kibanaを使って可視化できるクエリには次のようなものがあ�
   * トップ言語ペア　など
 
 
-[caption id="attachment_6743" align="aligncenter" width="719"][![top 10 language pairs](/wp-content/uploads/2016/04/top-10-language-pairs1.png)](/wp-content/uploads/2016/04/top-10-language-pairs1.png) （Memsourceのデモアカウントから得られたトップ10言語ペア）[/caption]
+[![top 10 language pairs](/wp-content/uploads/2016/04/top-10-language-pairs1.png)](/wp-content/uploads/2016/04/top-10-language-pairs1.png) （Memsourceのデモアカウントから得られたトップ10言語ペア）
 
 ** **
 

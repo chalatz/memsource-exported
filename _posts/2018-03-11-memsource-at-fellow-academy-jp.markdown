@@ -22,13 +22,13 @@ categories:
 ## フェロー・アカデミー校の様子
 
 
-[caption id="attachment_22695" align="alignleft" width="270"][![校舎の様子](https://www.memsource.com/wp-content/uploads/2018/03/midori-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/midori.jpg) 青山一丁目に位置しており、都内各所からアクセス良好です。[/caption]
+[![校舎の様子](https://www.memsource.com/wp-content/uploads/2018/03/midori-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/midori.jpg) 青山一丁目に位置しており、都内各所からアクセス良好です。
 
-[caption id="attachment_22696" align="alignleft" width="270"][![教室の様子](https://www.memsource.com/wp-content/uploads/2018/03/PCｓ-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/PCｓ.jpg) 一人に一台のPCには翻訳支援ソフトがインストールされており、実践的に学べます。[/caption]
+[![教室の様子](https://www.memsource.com/wp-content/uploads/2018/03/PCｓ-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/PCｓ.jpg) 一人に一台のPCには翻訳支援ソフトがインストールされており、実践的に学べます。
 
-[caption id="attachment_22834" align="alignleft" width="270"][![託児所の様子](https://www.memsource.com/wp-content/uploads/2018/03/guide_06-1-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/guide_06-1.jpg) 託児サービスも利用できるので、お子さんがいる方も安心ですね。[/caption]
+[![託児所の様子](https://www.memsource.com/wp-content/uploads/2018/03/guide_06-1-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/guide_06-1.jpg) 託児サービスも利用できるので、お子さんがいる方も安心ですね。
 
-[caption id="attachment_22702" align="alignleft" width="270"][![自習室の様子](https://www.memsource.com/wp-content/uploads/2018/03/study-room-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/study-room.jpg) 受講生同士の交流の場でもあるスタディルーム[/caption]
+[![自習室の様子](https://www.memsource.com/wp-content/uploads/2018/03/study-room-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/study-room.jpg) 受講生同士の交流の場でもあるスタディルーム
 
 
 ## 翻訳支援ツール基本操作講習の様子
@@ -38,7 +38,7 @@ categories:
 
 講師は、[日本翻訳連盟（JTF）](http://www.jtf.jp/)理事としてもご活躍されている高橋聡先生。 高橋先生は翻訳関連のイベントでもよく講演をされています。[ご自身のブログ](http://baldhatter.txt-nifty.com/misc/)でも翻訳や業界についての深い洞察を発信されています。
 
-[caption id="attachment_22692" align="aligncenter" width="3968"][![高橋講師による授業の様子](https://www.memsource.com/wp-content/uploads/2018/03/IMG_20180226_195021-300x225.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/IMG_20180226_195021.jpg) 高橋先生による授業の様子[/caption]
+[![高橋講師による授業の様子](https://www.memsource.com/wp-content/uploads/2018/03/IMG_20180226_195021-300x225.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/IMG_20180226_195021.jpg) 高橋先生による授業の様子
 
 今回の講座では翻訳支援ツールについて、一連の操作方法だけではなく、下記のようなポイントをわかりやすく説明されていました。
 

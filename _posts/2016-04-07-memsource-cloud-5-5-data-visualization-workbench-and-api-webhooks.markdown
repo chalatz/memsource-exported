@@ -49,7 +49,7 @@ These are some of the queries that can be built and visualized using Kibana:
   * Top language pairs, etc.
 
 
-[caption id="attachment_6743" align="aligncenter" width="719"][![top 10 language pairs](/wp-content/uploads/2016/04/top-10-language-pairs1.png)](/wp-content/uploads/2016/04/top-10-language-pairs1.png) This week's top 10 language pairs in the Memsource demo account.[/caption]
+[![top 10 language pairs](/wp-content/uploads/2016/04/top-10-language-pairs1.png)](/wp-content/uploads/2016/04/top-10-language-pairs1.png) This week's top 10 language pairs in the Memsource demo account.
 
 **Project-level Data**
 

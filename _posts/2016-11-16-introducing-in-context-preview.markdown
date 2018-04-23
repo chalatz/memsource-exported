@@ -47,7 +47,7 @@ Users can navigate from the translation grid to the preview window and the other
 
 The preview currently supports rich text and will soon support images for MS Word documents (for the most updated list, visit our [Help Forum](https://help.memsource.com/hc/en-us/articles/115003484932-In-Context-Preview)). We are also working on bringing the preview for other file types in the near future. The graph below shows which of the Top 10 most common file types translated in Memsource are currently supported. InDesign files have a PDF-based preview through an [integration with FrontLab](http://wiki.memsource.com/wiki/Memsource_Cloud_User_Manual#Integrations).
 
-[caption id="attachment_9634" align="aligncenter" width="800"][![Top 10 Most Common File Types in Memsource - the In-Context Preview is available for six formats.](/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png)](/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png) Top 10 Most Common File Types in Memsource - the In-Context Preview is currently available for six formats.[/caption]
+[![Top 10 Most Common File Types in Memsource - the In-Context Preview is available for six formats.](/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png)](/wp-content/uploads/2016/11/Top-10-formats-preview-available-1-2.png) Top 10 Most Common File Types in Memsource - the In-Context Preview is currently available for six formats.
 
 
 

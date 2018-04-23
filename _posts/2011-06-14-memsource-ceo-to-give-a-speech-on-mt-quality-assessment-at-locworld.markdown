@@ -17,7 +17,7 @@ Memsource CEO David Canek will present results of a case study conducted with Ov
 
 The presentation, entitled **“The LSPs and Machine Translation: Why Not Treat MT as TM?”** will be part of the Inside Track of the conference and takes place from 15:30 to 16:20 on Thursday, June 16.
 
-[caption id="attachment_153" align="alignnone" width="125"]![](/wp-content/uploads/2011/06/David-Canek-photo-256x300.jpg) David Canek, Memsource CEO[/caption]
+![](/wp-content/uploads/2011/06/David-Canek-photo-256x300.jpg) David Canek, Memsource CEO
 
 **Presentation Summary:**
 

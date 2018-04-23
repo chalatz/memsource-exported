@@ -14,7 +14,7 @@ categories:
 
 A translator can boost throughput from 2,000 to 4,000-8,000 words per day while maintaining a good level of quality if she (or he) switches to post-editing of machine-translated texts. A huge increase in productivity after a certain period of adaptation is the reason that post-editing of machine translation (PEMT)  is quickly overtaking regular translations. Already over 50% of translations from English to Spanish and from English to German in Memsource are done combining translation memory and a machine translation engine.
 
-[caption id="attachment_4642" align="alignnone" width="639"][![15 language combinations with high MT use in Memsource](/wp-content/uploads/2015/08/post-editing.png)](/wp-content/uploads/2015/08/post-editing.png) 15 language combinations with high MT use in Memsource[/caption]
+[![15 language combinations with high MT use in Memsource](/wp-content/uploads/2015/08/post-editing.png)](/wp-content/uploads/2015/08/post-editing.png) 15 language combinations with high MT use in Memsource
 
 <!-- more -->
 

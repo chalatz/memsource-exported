@@ -20,6 +20,6 @@ Citroën Scandinavia has been using Memsource for translations over a year by n
 <!-- more -->
 
 
-[caption id="attachment_3409" align="alignright" width="257"]![](/wp-content/uploads/2014/11/pernille.jpg) Pernille Malling Frederiksen, Head of Translation, Citroën Scandinavia[/caption]
+![](/wp-content/uploads/2014/11/pernille.jpg) Pernille Malling Frederiksen, Head of Translation, Citroën Scandinavia
 
 “It is the perfect solution for us since we are doing both in-house translations as well as using external vendors. Without having to invest in a server solution, we are now able to work on the same platform and share our TMs and TBs with our vendors. Memsouce is a very user-friendly translation tool and the support is fast and very professional. I highly recommend that you try out the tool, you will not be disappointed. I am convinced that cloud-based systems are the future for the translation industry.”

@@ -37,9 +37,9 @@ Memsource Cloud 2.4 was released on 3 September 2012. Read more about the new fe
 
 
 
-[caption id="attachment_1111" align="alignnone" width="300"][![](/wp-content/uploads/2012/08/buttons-inactive-300x158.png)](/wp-content/uploads/2012/08/buttons-inactive.png) Buttons Inactive[/caption]
+[![](/wp-content/uploads/2012/08/buttons-inactive-300x158.png)](/wp-content/uploads/2012/08/buttons-inactive.png) Buttons Inactive
 
-[caption id="attachment_1112" align="alignnone" width="300"][![](/wp-content/uploads/2012/08/buttons-active-300x159.png)](/wp-content/uploads/2012/08/buttons-active.png) Buttons Active[/caption]
+[![](/wp-content/uploads/2012/08/buttons-active-300x159.png)](/wp-content/uploads/2012/08/buttons-active.png) Buttons Active
 
 
 ## The New Features
@@ -67,7 +67,7 @@ Memsource Cloud 2.4 was released on 3 September 2012. Read more about the new fe
   * Project managers and administrators can now create unlimited number of users and select which users will be active _(only in the Team edition)_
 
 
-[caption id="attachment_1115" align="alignnone" width="300"][![](/wp-content/uploads/2012/08/active-users-300x228.png)](/wp-content/uploads/2012/08/active-users.png) Unlimited Number of Users; Select Active Users[/caption]
+[![](/wp-content/uploads/2012/08/active-users-300x228.png)](/wp-content/uploads/2012/08/active-users.png) Unlimited Number of Users; Select Active Users
 
 
 

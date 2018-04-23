@@ -18,7 +18,7 @@ We have expanded the Owner feature to Project Templates, Translation Memory and 
 
 This feature is important for project managers with otherwise restricted access to Projects, Project Templates, TMs or TBs created by other users. As Owner they will gain full access.
 
-[caption id="attachment_9955" align="alignnone" width="300"][![pm_restricted-300x128](http://www.memsource.com/wp-content/uploads/2016/11/pm_restricted-300x128.png)](http://www.memsource.com/wp-content/uploads/2016/11/pm_restricted-300x128.png) Project manager with restricted rights[/caption]
+[![pm_restricted-300x128](http://www.memsource.com/wp-content/uploads/2016/11/pm_restricted-300x128.png)](http://www.memsource.com/wp-content/uploads/2016/11/pm_restricted-300x128.png) Project manager with restricted rights
 
 If this user is set as the Owner:
 

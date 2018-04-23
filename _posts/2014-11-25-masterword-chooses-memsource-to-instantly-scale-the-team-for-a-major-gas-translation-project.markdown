@@ -22,7 +22,7 @@ _MasterWord started using Memsource in 2013 for some of the works, gradually inc
 
 The end customer, an oil and gas company, required translating a large set of training materials for construction specialists in under four months. The bulk of this terminology-heavy material arrived in a print-ready InDesign format, along with digital supplements such as classroom materials and PowerPoint presentations.
 
-[caption id="attachment_3377" align="alignright" width="185" caption="Olga Daggs, Lead Project Manager"][![](/wp-content/uploads/2014/11/Olga-Daggs_Lead-Project-Manager-240x300.jpg)](/wp-content/uploads/2014/11/Olga-Daggs_Lead-Project-Manager.jpg)[/caption]
+[![](/wp-content/uploads/2014/11/Olga-Daggs_Lead-Project-Manager-240x300.jpg)](/wp-content/uploads/2014/11/Olga-Daggs_Lead-Project-Manager.jpg)
 
 The project was facing two technical challenges: firstly, some of the files were extremely large up to 1GB in size. This made it difficult to email the files and open them in translation editors. Also, there were hundreds of small files containing only a few lines of text. Translating them individually posed a dreary and puzzling task, while a lack of context increased the risk of making mistakes.
 
@@ -62,7 +62,7 @@ Ultimately, Memsource offered the best scalability and cost-effectiveness -- it 
 
 **Solutions for terminology consistency and file size**
 
-[caption id="attachment_3385" align="alignleft" width="233" caption="Mikhail Dunavetsky, Lead Editor"][![](/wp-content/uploads/2014/11/Mikhail-Dunavetsky_Lead-Editor-e1416915570511-300x297.jpg)](/wp-content/uploads/2014/11/Mikhail-Dunavetsky_Lead-Editor-e1416915570511.jpg)[/caption]
+[![](/wp-content/uploads/2014/11/Mikhail-Dunavetsky_Lead-Editor-e1416915570511-300x297.jpg)](/wp-content/uploads/2014/11/Mikhail-Dunavetsky_Lead-Editor-e1416915570511.jpg)
 
 Prior to translators being sent any work, the MasterWord team allocated two weeks for the terminology to be prepared. They uploaded source files, existing termbases and translation memory, and performed pre-translation. Its results were reviewed by the best linguists on the team, with the help of the customer’s in-house expert. Verified terms and segments were then locked from further editing.
 

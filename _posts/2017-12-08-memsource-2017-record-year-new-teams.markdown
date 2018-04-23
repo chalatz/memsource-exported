@@ -18,7 +18,7 @@ In October, Memsource processed 2.6 billion words in a single month, setting an 
 
 
 
-[caption id="attachment_19742" align="aligncenter" width="1882"][![](https://www.memsource.com/wp-content/uploads/2017/12/Words-Processed-Nov-2017.png)](https://www.memsource.com/wp-content/uploads/2017/12/Words-Processed-Nov-2017.png) Insights from Kibana show Memsource Cloud processed over 2.8 billion words in November 2017.[/caption]
+[![](https://www.memsource.com/wp-content/uploads/2017/12/Words-Processed-Nov-2017.png)](https://www.memsource.com/wp-content/uploads/2017/12/Words-Processed-Nov-2017.png) Insights from Kibana show Memsource Cloud processed over 2.8 billion words in November 2017.
 
 
 This year, we released several new [CMS connectors](https://www.memsource.com/integrations/) and a [mobile app](https://www.memsource.com/app/), gave the platform a [new design](https://www.memsource.com/blog/2017/08/02/new-user-interface-launched/) for a smoother user experience, and upgraded our APIs to [REST standards](https://www.memsource.com/blog/2017/10/24/introducing-rest-apis-qa-with-the-memsource-api-team/). New analytics dashboards in [projects](https://www.memsource.com/blog/2017/07/20/new-project-dashboard-launches-upcoming-interface-changes/) and on the [homepage](https://www.memsource.com/blog/2017/02/27/new-homepage-analytics-dashboards-to-track-localization/) provide more information to project managers and translation buyers, [client portals](https://www.memsource.com/blog/2017/03/16/client-portals-a-new-customer-focused-solution/) provide easy access for internal and external customers to submit translation jobs, and everyone can better communicate with [conversations](https://www.memsource.com/blog/2017/08/30/increasing-communication-through-conversations/) in the editors. And that barely scratches the surface on our [product updates](https://www.memsource.com/new/).
@@ -37,7 +37,7 @@ Wednesday, December 13, 2017, 17:00CET
 
 This growth has meant adding new office space in Prague as well as creating new teams to increase efficiency and internal collaboration and, ultimately, to better serve you - our customers and partners.
 
-[caption id="attachment_19750" align="aligncenter" width="2048"][![](https://www.memsource.com/wp-content/uploads/2017/12/20507446_1412154412171255_7654927378801081421_o.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/20507446_1412154412171255_7654927378801081421_o.jpg) The Memsource 7th-anniversary party in August[/caption]
+[![](https://www.memsource.com/wp-content/uploads/2017/12/20507446_1412154412171255_7654927378801081421_o.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/20507446_1412154412171255_7654927378801081421_o.jpg) The Memsource 7th-anniversary party in August
 
 
 Some of the new teams include:

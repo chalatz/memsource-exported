@@ -23,7 +23,7 @@ MemsourceでXMLファイルを翻訳する際に、HTML形式でプレビュー�
 
 このプレビュー機能を使うためには、XMLファイルからジョブを作成する際にXSLT形式のスタイルシートを併せてインポートしてください。
 
-[caption id="attachment_8687" align="alignnone" width="819"][![XSLT Preview File](/wp-content/uploads/2016/09/XML-1.png)](/wp-content/uploads/2016/09/XML-1.png) Attach XSLT to XML in Japanese[/caption]
+[![XSLT Preview File](/wp-content/uploads/2016/09/XML-1.png)](/wp-content/uploads/2016/09/XML-1.png) Attach XSLT to XML in Japanese
 
 ジョブ作成時にXMLファイルの設定を開き、XSLTを添付しましょう。上図赤線部からファイルを挿入できます。
 
