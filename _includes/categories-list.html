@@ -1,0 +1,16 @@
+{% assign cat_size = page.categories | size %}
+		{% if cat_size != 0 %}
+			<div class="post-categories">
+
+				{% assign last_cat = page.categories | last %}
+				{% for cat_name in page.categories %}
+					{% assign cat_slug = cat_name | slugify  %}
+					{% if cat_name != last_cat %}
+						<a class="category-link" href="{{ site.baseurl }}/category/{{ cat_slug }}">{{cat_name}}</a> ,
+					{% else %}
+						<a class="category-link" href="{{ site.baseurl }}/category/{{ cat_slug }}">{{cat_name}}</a>
+					{% endif %}
+                {% endfor %}
+                
+			</div>
+{% endif %}
