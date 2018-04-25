@@ -30,22 +30,22 @@ algolia:
   application_id: 3WRZ5YBWUQ
   index_name:     memsource-jekyll
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-paginate-v2
-
 # Pagination Settings
 pagination:
   enabled: true
-  per_page: 2
+  per_page: 20
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

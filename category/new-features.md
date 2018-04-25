@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: home
 title: New Features
-# pagination:
-#     enabled: true
-#     category: 
+pagination:
+    enabled: true
+    category: 'New Features'
 ---
 
-hello
