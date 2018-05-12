@@ -3,9 +3,11 @@ author: Sarah
 comments: true
 date: 2018-04-09 16:31:41+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/04/09/defeat-the-deadlines-memsource-must-haves-to-keep-your-project-on-track/
 slug: defeat-the-deadlines-memsource-must-haves-to-keep-your-project-on-track
 title: 'Defeat the Deadlines: Memsource must-haves to keep your project on track'
+page_title: 'Defeat the Deadlines: Memsource must-haves to keep your project on track'
 wordpress_id: 23227
 categories:
 - Memsource Blog
