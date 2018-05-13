@@ -3,9 +3,11 @@ author: Sarah
 comments: true
 date: 2018-04-01 08:00:10+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/04/01/klingon-elvish-parseltongue-oh-my/
 slug: klingon-elvish-parseltongue-oh-my
-title: Klingon, Elvish, Parseltongue - Oh My!
+title: 'Klingon, Elvish, Parseltongue - Oh My!'
+page_title: 'Klingon, Elvish, Parseltongue - Oh My!'
 wordpress_id: 23060
 categories:
 - New Features
@@ -18,9 +20,6 @@ _*Disclaimer: We’re not 100% sure no one else has these new languages, but it 
 Our list of 400+ supported languages is always growing. Our most recent (and undoubtedly most nerdy) additions include favorites from some of the biggest fantasy book and film franchises.
 
 These languages include:
-
-
-
  	
   * Klingon - Star Trek
 
@@ -35,7 +34,6 @@ These languages include:
 
  	
   * Wookiee - Star Wars
-
 
 .
 
@@ -53,8 +51,7 @@ It’s true, we’re not adding MOST of these, but Klingon will actually be avai
 
 Qapla’! (Success!) Happy Translating!
 
-
-[Star Trek Klingon GIF](https://tenor.com/view/star-trek-klingon-shocked-surprised-speechless-gif-4920796) from [Startrek GIFs](https://tenor.com/search/startrek-gifs)
+<div class="tenor-gif-embed" data-postid="4920796" data-share-method="host" data-width="100%" data-aspect-ratio="1.5037593984962405"><a href="https://tenor.com/view/star-trek-klingon-shocked-surprised-speechless-gif-4920796">Star Trek Klingon GIF</a> from <a href="https://tenor.com/search/startrek-gifs">Startrek GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 

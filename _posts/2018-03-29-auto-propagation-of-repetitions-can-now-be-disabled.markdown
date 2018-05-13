@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-03-29 13:08:30+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/03/29/auto-propagation-of-repetitions-can-now-be-disabled/
 slug: auto-propagation-of-repetitions-can-now-be-disabled
 title: Auto-propagation of Repetitions Can Now be Disabled
+page_title: Auto-propagation of Repetitions Can Now be Disabled
 wordpress_id: 23003
 categories:
 - New Features

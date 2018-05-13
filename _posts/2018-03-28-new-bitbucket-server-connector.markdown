@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-03-28 09:25:34+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/03/28/new-bitbucket-server-connector/
 slug: new-bitbucket-server-connector
 title: New Bitbucket Server Connector
+page_title: New Bitbucket Server Connector
 wordpress_id: 22926
 categories:
 - New Features
@@ -16,7 +18,7 @@ tags:
 - Connectors
 ---
 
-[![](/uploads/2018/02/Bitbucket@2x-blue.png)](/uploads/2018/02/Bitbucket@2x-blue.png)
+[![](/uploads/2018/02/Bitbucket@2x-blue.png)](/uploads/2018/02/Bitbucket@2x-blue.png){:.float-left}
 
 We have developed a new connector for the online repository Bitbucket Server. 
 
@@ -30,6 +32,6 @@ The connector is available for our Ultimate and Enterprise users.
 
 To set up and use the Bitbucket Server connector in Memsource, please see [our Help Center](https://help.memsource.com/hc/en-us/articles/115003948452-Connectors#Bitbucket_Server).
 
----
+--
 
 Learn more about Memsource’s [selection of CMS connectors and technology integrations](https://www.memsource.com/integrations/).

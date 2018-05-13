@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-03-13 11:01:58+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/03/13/multilingual-xml-new-option-to-specify-character-references/
 slug: multilingual-xml-new-option-to-specify-character-references
 title: 'Multilingual XML: New Option to Specify Character References'
+page_title: 'Multilingual XML: New Option to Specify Character References'
 wordpress_id: 22643
 categories:
 - New Features
@@ -14,7 +16,10 @@ tags:
 - admins
 ---
 
-[![](/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)](/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)A new field has been added to the Multilingual XML Import Settings which allows users to specify what the character references should be for different characters in the exported XML file.
+{:.float-right}
+[![](/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)](/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)
+
+A new field has been added to the Multilingual XML Import Settings which allows users to specify what the character references should be for different characters in the exported XML file.
 
 For example, if a user wants quotes “ represented as  &quot, this would need to be specified in the Convert to character entities field.
 

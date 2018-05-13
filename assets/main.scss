@@ -8,16 +8,23 @@
 .float-right {
   float: right;
   margin: 10px;
+  max-width: 40%;
 }
 .float-left {
   float: left;
   margin: 10px;
+  max-width: 40%;
 }
 
 .pagination {
     text-align: center;
     font-size: 1.2em;
     margin: 4em 0 0;
+}
+
+// -------- Cascade
+.post {
+  overflow: hidden;
 }
 
 // -------- Posts nav

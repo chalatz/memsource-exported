@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-03-29 13:37:44+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/03/29/new-microsoft-sharepoint-connector/
 slug: new-microsoft-sharepoint-connector
 title: New Microsoft SharePoint Connector
+page_title: New Microsoft SharePoint Connector
 wordpress_id: 22932
 categories:
 - New Features
@@ -16,7 +18,7 @@ tags:
 - Connectors
 ---
 
-[![](/uploads/2018/03/Microsoft-SharePoint-Logo.png)](/uploads/2018/03/Microsoft-SharePoint-Logo.png)
+[![](/uploads/2018/03/Microsoft-SharePoint-Logo.png)](/uploads/2018/03/Microsoft-SharePoint-Logo.png){:.float-left}
 
 We have introduced a connector for Microsoft SharePoint. SharePoint is a browser-based collaboration and document management platform. <!-- more -->
 

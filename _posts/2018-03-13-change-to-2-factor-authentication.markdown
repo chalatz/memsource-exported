@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-03-13 11:04:11+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/03/13/change-to-2-factor-authentication/
 slug: change-to-2-factor-authentication
 title: Change to 2-factor Authentication
+page_title: Change to 2-factor Authentication
 wordpress_id: 22656
 categories:
 - New Features

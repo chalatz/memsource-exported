@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-03-13 11:03:19+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/03/13/toshiba-machine-translation-engine-now-available/
 slug: toshiba-machine-translation-engine-now-available
 title: Toshiba Machine Translation Engine Now Available
+page_title: Toshiba Machine Translation Engine Now Available
 wordpress_id: 22629
 categories:
 - New Features

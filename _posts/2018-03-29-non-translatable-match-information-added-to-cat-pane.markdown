@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-03-29 13:30:09+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/03/29/non-translatable-match-information-added-to-cat-pane/
 slug: non-translatable-match-information-added-to-cat-pane
 title: Non-translatable Match Information Added to CAT Pane
+page_title: Non-translatable Match Information Added to CAT Pane
 wordpress_id: 23006
 categories:
 - New Features
@@ -15,7 +17,9 @@ tags:
 - Desktop Editor
 ---
 
-[![](/uploads/2018/03/Indication-of-NTs-CAT-Pane.png)](/uploads/2018/03/Indication-of-NTs-CAT-Pane.png)Users will now be able to see the origin of an NT match in the CAT pane. 
+[![](/uploads/2018/03/Indication-of-NTs-CAT-Pane.png)](/uploads/2018/03/Indication-of-NTs-CAT-Pane.png){:.float-left}
+
+Users will now be able to see the origin of an NT match in the CAT pane. 
 
 <!-- more -->
 
