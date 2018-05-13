@@ -25,6 +25,9 @@
 // -------- Cascade
 .post {
   overflow: hidden;
+  & p {
+    overflow: hidden;
+  }
 }
 
 // -------- Posts nav
