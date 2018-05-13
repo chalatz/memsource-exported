@@ -11,6 +11,7 @@ page_title: 'Defeat the Deadlines: Memsource must-haves to keep your project on 
 wordpress_id: 23227
 categories:
 - Memsource Blog
+image: /uploads/2018/04/businesswoman-in-lotus-meditation-position-in-work-office-concept-vector-id663167724.png
 ---
 
 ## Finding it challenging to manage multiple project deadlines?
@@ -49,7 +50,7 @@ Using this feature you can establish various rules, including a quota of words t
 
 
 
-[![](/uploads/2017/08/Macbook-NewUI-HD-300x220.png)](/uploads/2017/08/Macbook-NewUI-HD.png)Deadlines may not only be an issue on the buyer side but also on the translator's side. To ensure translators and suppliers are on track to meet their delivery dates, you can use the [Memsource project dashboard](https://help.memsource.com/hc/en-us/articles/115003483732-Understanding-Memsource-Project-Dashboards). It includes a progress bar where you can monitor the status of your projects in real-time. You can view the overall progress (overview of job statuses and issues across all workflow steps) or individual progress (overview of job statuses and issues in individual workflow steps and language combinations).
+[![](/uploads/2017/08/Macbook-NewUI-HD-300x220.png)](/uploads/2017/08/Macbook-NewUI-HD.png){:.float-right} Deadlines may not only be an issue on the buyer side but also on the translator's side. To ensure translators and suppliers are on track to meet their delivery dates, you can use the [Memsource project dashboard](https://help.memsource.com/hc/en-us/articles/115003483732-Understanding-Memsource-Project-Dashboards). It includes a progress bar where you can monitor the status of your projects in real-time. You can view the overall progress (overview of job statuses and issues across all workflow steps) or individual progress (overview of job statuses and issues in individual workflow steps and language combinations).
 
 
 

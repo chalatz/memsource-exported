@@ -4,6 +4,16 @@
 
 @import "minima";
 
+// -------- Helpers
+.float-right {
+  float: right;
+  margin: 10px;
+}
+.float-left {
+  float: left;
+  margin: 10px;
+}
+
 .pagination {
     text-align: center;
     font-size: 1.2em;
