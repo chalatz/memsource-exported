@@ -20,7 +20,7 @@ tags:
 Marketers, rejoice! Memsource has recently released connections with AEM and Marketo and support for Photoshop files, making it easier to translate even more marketing content.<!-- more -->
 
 
-### **[![](https://www.memsource.com/wp-content/uploads/2017/10/aem6.png)](https://www.memsource.com/wp-content/uploads/2017/10/aem6.png)**Plugin for Adobe Experience Manager
+### **[![](/uploads/2017/10/aem6.png)](/uploads/2017/10/aem6.png)**Plugin for Adobe Experience Manager
 
 
 The Memsource Translation Plugin for Adobe Experience Manager enables managers to efficiently produce global multilingual web and mobile content to speak to local markets around the world.
@@ -30,7 +30,7 @@ Within the AEM 6.2 platform, users can choose content for translation, request a
 The plugin for AEM is available by [contacting the Sales team](https://www.memsource.com/contact-sales/) and is coming soon to the AEM Marketplace. Learn more about setting up the AEM Plugin in our [Support Center](https://help.memsource.com/hc/en-us/articles/115003461031-How-to-set-up-and-use-Memsource-Translation-Plugin-for-AEM) and [documentation](https://wiki.memsource.com/wiki/Adobe_experience_manager_plugin).
 
 
-### **[![](https://www.memsource.com/wp-content/uploads/2017/10/marketo_logo-981x1024.png)](https://www.memsource.com/wp-content/uploads/2017/10/marketo_logo.png)**Marketo Connector
+### **[![](/uploads/2017/10/marketo_logo-981x1024.png)](/uploads/2017/10/marketo_logo.png)**Marketo Connector
 
 
 The Marketo Connector allows Memsource users with Ultimate and Unlimited editions to pull emails, files, landing pages, and forms directly into Memsource for translation and pushes the translated content back into the Marketo system. Users can select content to be pulled for translation either manually or automatically.
@@ -38,7 +38,7 @@ The Marketo Connector allows Memsource users with Ultimate and Unlimited edition
 Learn more about Memsource’s [selection of connectors](https://wiki.memsource.com/wiki/Connectors#Marketo).
 
 
-### **[![](https://www.memsource.com/wp-content/uploads/2017/10/Photoshop-logo.png)](https://www.memsource.com/wp-content/uploads/2017/10/Photoshop-logo.png)**Translating Photoshop Files
+### **[![](/uploads/2017/10/Photoshop-logo.png)](/uploads/2017/10/Photoshop-logo.png)**Translating Photoshop Files
 
 
 Adobe Photoshop .psd files can be imported, automatically recognized, and processed as a supported file format. This includes support for both hidden and locked layers. 

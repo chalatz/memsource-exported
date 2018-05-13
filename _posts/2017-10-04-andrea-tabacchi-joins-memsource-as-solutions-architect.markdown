@@ -14,7 +14,7 @@ categories:
 
 Memsource is pleased to welcome Andrea Tabacchi as a new Solutions Architect, effective October 2, 2017.<!-- more -->
 
-[![](https://www.memsource.com/wp-content/uploads/2017/10/Andrea-Tabacchi2.jpg)](https://www.memsource.com/wp-content/uploads/2017/10/Andrea-Tabacchi2.jpg)Andrea joins Memsource after seven years at translation agency [AranchoDoc](http://www.aranchodoc.com/) where he served in several technology-focused roles, most recently as Technology Director overseeing all language technology and IT infrastructure. He has experience building customer-centric language technology solutions for multinational corporations and has collaborated with global translation agencies.
+[![](/uploads/2017/10/Andrea-Tabacchi2.jpg)](/uploads/2017/10/Andrea-Tabacchi2.jpg)Andrea joins Memsource after seven years at translation agency [AranchoDoc](http://www.aranchodoc.com/) where he served in several technology-focused roles, most recently as Technology Director overseeing all language technology and IT infrastructure. He has experience building customer-centric language technology solutions for multinational corporations and has collaborated with global translation agencies.
 
 In his new role, Andrea will continue utilizing these skills to service Memsource’s global customers. He will work with clients to develop solutions to address their translation technology needs, help them discover new ways to optimize the Memsource platform, and liaise between clients and internal teams to suggest tool improvements. 
 

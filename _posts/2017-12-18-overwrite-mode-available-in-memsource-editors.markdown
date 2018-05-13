@@ -64,7 +64,7 @@ You can do one of the following:
 
 
 
-##### [![](https://www.memsource.com/wp-content/uploads/2017/12/Overwrite-icon-1.png)](https://www.memsource.com/wp-content/uploads/2017/12/Overwrite-icon-1.png)  Overwrite Mode icon
+##### [![](/uploads/2017/12/Overwrite-icon-1.png)](/uploads/2017/12/Overwrite-icon-1.png)  Overwrite Mode icon
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/12/Overwrite-icon-webed-1.png)](https://www.memsource.com/wp-content/uploads/2017/12/Overwrite-icon-webed-1.png)
+[![](/uploads/2017/12/Overwrite-icon-webed-1.png)](/uploads/2017/12/Overwrite-icon-webed-1.png)

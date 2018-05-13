@@ -18,7 +18,7 @@ tags:
 
 
 
-[![シングルサインオンに対応](https://www.memsource.com/wp-content/uploads/2017/12/Blog-post_-single-sign-on-1-300x169.png)](https://www.memsource.com/wp-content/uploads/2017/12/Blog-post_-single-sign-on-1.png)
+[![シングルサインオンに対応](/uploads/2017/12/Blog-post_-single-sign-on-1-300x169.png)](/uploads/2017/12/Blog-post_-single-sign-on-1.png)
 
 クラウドサービスが当たり前のものとして普及している現在では、日々の業務を行うためにさまざまなオンラインサービスが利用されています。
 

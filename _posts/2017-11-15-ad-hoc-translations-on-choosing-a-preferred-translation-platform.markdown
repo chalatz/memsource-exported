@@ -13,7 +13,7 @@ categories:
 - Featured Articles
 ---
 
-_[![](https://www.memsource.com/wp-content/uploads/2017/11/AdHoc-logo-300x99.png)](https://www.memsource.com/wp-content/uploads/2017/11/AdHoc-logo.png)_
+_[![](/uploads/2017/11/AdHoc-logo-300x99.png)](/uploads/2017/11/AdHoc-logo.png)_
 
 _[AdHoc Translations](https://www.adhoc-translations.com) has been providing translation, interpreting, and linguistic services for companies in many different fields for nearly 30 years._
 
@@ -66,7 +66,7 @@ Overall, we were looking to optimize our internal processes and make managing th
 
 
 
-### **[![](https://www.memsource.com/wp-content/uploads/2017/11/jesper-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2017/11/jesper.jpg)**Our Experience - Choosing Memsource as a Preferred Translation Tool
+### **[![](/uploads/2017/11/jesper-300x200.jpg)](/uploads/2017/11/jesper.jpg)**Our Experience - Choosing Memsource as a Preferred Translation Tool
 
 
 Memsource was able to meet all our requirements and needs, and the transition has been surprisingly easy and smooth. 

@@ -13,7 +13,7 @@ categories:
 
 Memsource users can now specify the name and destination of target folders (within the source folder) that are created when translations are done in Memsource via Automated Project Creation (APC).<!-- more -->
 
-[![](https://www.memsource.com/wp-content/uploads/2018/03/APC-Settings-Targetsubfolderpath-1.png)](https://www.memsource.com/wp-content/uploads/2018/03/APC-Settings-Targetsubfolderpath-1.png)
+[![](/uploads/2018/03/APC-Settings-Targetsubfolderpath-1.png)](/uploads/2018/03/APC-Settings-Targetsubfolderpath-1.png)
 
 
 

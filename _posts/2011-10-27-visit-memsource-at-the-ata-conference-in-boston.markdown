@@ -19,4 +19,4 @@ You can visit us at our booth (no. 6) in the exibition hall (Thursday to Saturd
 
 Translation Tools Forum on Friday at 16:00 or our workshop "Memsource Cloud: Rethinking Translation Technology" on Saturday at 14:30.
 
-![](https://www.memsource.com/wp-content/uploads/2011/10/dvd.gif)
+![](/uploads/2011/10/dvd.gif)

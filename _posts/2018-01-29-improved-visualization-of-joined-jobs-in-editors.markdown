@@ -27,8 +27,8 @@ This is particularly useful in the following scenarios:
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/joined-P5471-J1-2-3-en-de-T.mxliff-Web-Editor-Google-Chrome-2018-01-29-11.43.47.png)
-](https://www.memsource.com/wp-content/uploads/2018/01/joined-P5471-J1-2-3-en-de-T.mxliff-Web-Editor-Google-Chrome-2018-01-29-11.43.47.png)
+[![](/uploads/2018/01/joined-P5471-J1-2-3-en-de-T.mxliff-Web-Editor-Google-Chrome-2018-01-29-11.43.47.png)
+](/uploads/2018/01/joined-P5471-J1-2-3-en-de-T.mxliff-Web-Editor-Google-Chrome-2018-01-29-11.43.47.png)
 
 
 
@@ -38,7 +38,7 @@ This is particularly useful in the following scenarios:
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/Split-file.png)](https://www.memsource.com/wp-content/uploads/2018/01/Split-file.png)
+[![](/uploads/2018/01/Split-file.png)](/uploads/2018/01/Split-file.png)
 
 —
 

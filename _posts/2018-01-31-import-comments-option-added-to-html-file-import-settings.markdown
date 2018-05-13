@@ -23,4 +23,4 @@ The option is selected by default. Inline comments (those within paragraphs) wil
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/File-Import-Settings-HTML.png)](https://www.memsource.com/wp-content/uploads/2018/01/File-Import-Settings-HTML.png)
+[![](/uploads/2018/01/File-Import-Settings-HTML.png)](/uploads/2018/01/File-Import-Settings-HTML.png)

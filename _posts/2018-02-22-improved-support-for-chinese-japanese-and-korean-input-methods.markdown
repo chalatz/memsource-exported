@@ -43,4 +43,4 @@ We have successfully tested the majority of default Input Method Editors (IMEs) 
 
 The following gif shows a demonstration of Sogou being used in Memsource.
 
-[![](https://www.memsource.com/wp-content/uploads/2018/02/ezgif.com-video-to-gif-7.gif)](https://www.memsource.com/wp-content/uploads/2018/02/ezgif.com-video-to-gif-7.gif)
+[![](/uploads/2018/02/ezgif.com-video-to-gif-7.gif)](/uploads/2018/02/ezgif.com-video-to-gif-7.gif)

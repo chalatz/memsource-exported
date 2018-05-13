@@ -35,7 +35,7 @@ tags:
 
 クラウドプラットフォームなら、ファイルの共有もより安全に行えます。ファイル貼付されたメールを無数にやりとりしていたのが従来の方法ですが、この方法では重要なデータが転送されたり誤送されたりする危険があります。みんながアクセスできるクラウド環境でファイルを保管することで、メール送受信の手間やリスクが軽減されます。
 
-ISO/IEC27001 を取得しているMemsourceは、きわめて高い基準のセキュリティプロトコルに準拠して運用されています。Memsourceのセキュリティ対策については[こちら(PDF)](https://www.memsource.com/wp-content/uploads/2017/03/Enhancing-the-Security-of-Your-Translation-Data-with-Memsource-Cloud-jp.pdf)もご覧ください。
+ISO/IEC27001 を取得しているMemsourceは、きわめて高い基準のセキュリティプロトコルに準拠して運用されています。Memsourceのセキュリティ対策については[こちら(PDF)](/uploads/2017/03/Enhancing-the-Security-of-Your-Translation-Data-with-Memsource-Cloud-jp.pdf)もご覧ください。
 
 
 ## コラボレーションの加速

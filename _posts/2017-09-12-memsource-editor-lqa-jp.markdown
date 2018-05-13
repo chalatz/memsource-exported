@@ -13,7 +13,7 @@ categories:
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/09/Blog-post-Conversations.png)](https://www.memsource.com/wp-content/uploads/2017/09/Blog-post-Conversations.png)
+[![](/uploads/2017/09/Blog-post-Conversations.png)](/uploads/2017/09/Blog-post-Conversations.png)
 
 Memsourceに言語品質保証(**LQA**)の機能が搭載されました。この機能はコメント機能の一部であり、これによりエラーカテゴリー(正確さ、流ちょうさ、用語など)と重大度(ニュートラル、マイナー、メジャー、クリティカル)に応じて翻訳品質を評価することができます。先日アップデートされたコメント機能と同様、こちらもセグメント単位だけでなく、**セグメント内の任意の部分を選択して対象とすることが可能**です。
 <!-- more -->この機能はアルティメット、BIZアルティメットエディションでご利用いただけます。

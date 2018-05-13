@@ -22,7 +22,7 @@ The latest version (v2.1.1) includes an important new feature - a language mappi
 
 <!-- more -->
 
-![](https://www.memsource.com/wp-content/uploads/2018/02/WordPress_Language-mapping.png)
+![](/uploads/2018/02/WordPress_Language-mapping.png)
 
 
 

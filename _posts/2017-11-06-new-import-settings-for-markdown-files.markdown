@@ -38,7 +38,7 @@ Memsource users can now:
 
 To find out more about importing Markdown files, visit our [documentation](https://wiki.memsource.com/wiki/Markdown).
 
-[![](https://www.memsource.com/wp-content/uploads/2017/11/MD_import.png)](https://www.memsource.com/wp-content/uploads/2017/11/MD_import.png)
+[![](/uploads/2017/11/MD_import.png)](/uploads/2017/11/MD_import.png)
 
 —
 

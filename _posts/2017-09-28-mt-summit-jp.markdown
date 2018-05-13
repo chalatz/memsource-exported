@@ -14,7 +14,7 @@ categories:
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/09/MT-Summit-in-Japan-01-300x211.jpg)](https://www.memsource.com/wp-content/uploads/2017/09/MT-Summit-in-Japan-01.jpg)先日の[ブログ記事](https://www.memsource.com/ja/blog/2017/09/12/mt-summit-xvi-jp/)でご案内したとおり、Memsourceは9月20日「**MT Summit**」の**テクノロジーショーケース**に出展しました。
+[![](/uploads/2017/09/MT-Summit-in-Japan-01-300x211.jpg)](/uploads/2017/09/MT-Summit-in-Japan-01.jpg)先日の[ブログ記事](https://www.memsource.com/ja/blog/2017/09/12/mt-summit-xvi-jp/)でご案内したとおり、Memsourceは9月20日「**MT Summit**」の**テクノロジーショーケース**に出展しました。
 
 会場には、世界各国の機械翻訳の研究者・技術者だけでなく翻訳者や翻訳業界、翻訳に関連する技術やソリューションを提供する製造業の関連者など、多くの参加者が集いました。
 
@@ -22,7 +22,7 @@ categories:
 
 テクノロジーショーケースの時間まで、機械翻訳に関する興味深いいくつかのプレゼンテーションを聴講しました。機械翻訳による訳文提案があると、翻訳者によっては作業効率の低下を体感するものの、実際に統計をとってみると全体的には作業効率が上がっているという実験結果の発表など、今後も広がりを見せる機械翻訳に関する最先端の研究発表に触れることができました。
 
-[![](https://www.memsource.com/wp-content/uploads/2017/09/MT-Summit-02-300x219.jpg)](https://www.memsource.com/wp-content/uploads/2017/09/MT-Summit-02.jpg)
+[![](/uploads/2017/09/MT-Summit-02-300x219.jpg)](/uploads/2017/09/MT-Summit-02.jpg)
 
 
 

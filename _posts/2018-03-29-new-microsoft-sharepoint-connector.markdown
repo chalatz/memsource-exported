@@ -16,7 +16,7 @@ tags:
 - Connectors
 ---
 
-[![](https://www.memsource.com/wp-content/uploads/2018/03/Microsoft-SharePoint-Logo.png)](https://www.memsource.com/wp-content/uploads/2018/03/Microsoft-SharePoint-Logo.png)
+[![](/uploads/2018/03/Microsoft-SharePoint-Logo.png)](/uploads/2018/03/Microsoft-SharePoint-Logo.png)
 
 We have introduced a connector for Microsoft SharePoint. SharePoint is a browser-based collaboration and document management platform. <!-- more -->
 

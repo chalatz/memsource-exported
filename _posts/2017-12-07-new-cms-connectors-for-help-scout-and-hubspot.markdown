@@ -22,7 +22,7 @@ Two new CMS connectors for Help Scout and HubSpot have been added to our [growin
 ### Help Scout Connector
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/12/HelpScout-full-300x60.png)](https://www.memsource.com/wp-content/uploads/2017/12/HelpScout-full.png)[Help Scout](https://www.helpscout.net/) is a knowledge base and customer service technology platform. The Help Scout connector pulls articles from collections (folders) in the Help Scout Docs knowledge base directly into Memsource and then pushes the translated content back into the Help Scout system.
+[![](/uploads/2017/12/HelpScout-full-300x60.png)](/uploads/2017/12/HelpScout-full.png)[Help Scout](https://www.helpscout.net/) is a knowledge base and customer service technology platform. The Help Scout connector pulls articles from collections (folders) in the Help Scout Docs knowledge base directly into Memsource and then pushes the translated content back into the Help Scout system.
 
 To set up the Help Scout connector in Memsource, see [our documentation](https://wiki.memsource.com/wiki/Connectors#Help_Scout).
 
@@ -30,7 +30,7 @@ To set up the Help Scout connector in Memsource, see [our documentation](https:/
 ### HubSpot Connector
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/12/hubspot-logo-300x87.png)](https://www.memsource.com/wp-content/uploads/2017/12/hubspot-logo.png)[HubSpot](https://www.hubspot.com/) is a leading sales and marketing automation platform and CRM. The Hubspot connector works in a similar way to the Help Scout connector. It can take files, website pages, landing pages, and forms, pull them to Memsource for translation and then return the translations to the HubSpot system. 
+[![](/uploads/2017/12/hubspot-logo-300x87.png)](/uploads/2017/12/hubspot-logo.png)[HubSpot](https://www.hubspot.com/) is a leading sales and marketing automation platform and CRM. The Hubspot connector works in a similar way to the Help Scout connector. It can take files, website pages, landing pages, and forms, pull them to Memsource for translation and then return the translations to the HubSpot system. 
 
 To set up the HubSpot connector in Memsource, see [our documentation](https://wiki.memsource.com/wiki/Connectors#HubSpot). 
 

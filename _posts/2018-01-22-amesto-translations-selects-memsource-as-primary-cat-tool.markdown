@@ -20,13 +20,13 @@ tags:
 
 
 
-_[![](https://www.memsource.com/wp-content/uploads/2018/01/amesto.png)](https://www.memsource.com/wp-content/uploads/2018/01/amesto.png)[Amesto Translations](https://www.amestotranslations.com/) is part of the Amesto Group and is one of the Nordic region’s largest translation agencies with offices in Sweden, Denmark, Norway and Great Britain. The company provides services in over 200 languages and has been using Memsource to provide translations since 2014. In 2017, Amesto selected Memsource as its primary CAT-tool integrated with the [XTRF project management platform](https://www.xtrf.eu/) to serve their global clients._
+_[![](/uploads/2018/01/amesto.png)](/uploads/2018/01/amesto.png)[Amesto Translations](https://www.amestotranslations.com/) is part of the Amesto Group and is one of the Nordic region’s largest translation agencies with offices in Sweden, Denmark, Norway and Great Britain. The company provides services in over 200 languages and has been using Memsource to provide translations since 2014. In 2017, Amesto selected Memsource as its primary CAT-tool integrated with the [XTRF project management platform](https://www.xtrf.eu/) to serve their global clients._
 
 _We spoke with Emma Skagerberg, IT Manager Production Systems, about how Amesto uses the Memsource-XTRF integration, why they chose Memsource as their preferred CAT-tool, and the benefits they have experienced._
 
 <!-- more -->
 
-**[![](https://www.memsource.com/wp-content/uploads/2018/01/Emma_Skagerberg_amesto.jpg)](https://www.memsource.com/wp-content/uploads/2018/01/Emma_Skagerberg_amesto.jpg)**
+**[![](/uploads/2018/01/Emma_Skagerberg_amesto.jpg)](/uploads/2018/01/Emma_Skagerberg_amesto.jpg)**
 
 
 
@@ -40,7 +40,7 @@ The translation workflow is set up in XTRF and, once the workflow has started, t
 
 
 
-**[![](https://www.memsource.com/wp-content/uploads/2018/01/XTRF-and-Memsource-graphic.png)](https://www.memsource.com/wp-content/uploads/2018/01/XTRF-and-Memsource-graphic.png)**
+**[![](/uploads/2018/01/XTRF-and-Memsource-graphic.png)](/uploads/2018/01/XTRF-and-Memsource-graphic.png)**
 
 
 
@@ -55,7 +55,7 @@ Most translators have reported that it is quick and easy to get started translat
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/CAT-Tool-Interface.png)](https://www.memsource.com/wp-content/uploads/2018/01/CAT-Tool-Interface.png)Memsource’s web-based translator’s workbench
+[![](/uploads/2018/01/CAT-Tool-Interface.png)](/uploads/2018/01/CAT-Tool-Interface.png)Memsource’s web-based translator’s workbench
 
 
 

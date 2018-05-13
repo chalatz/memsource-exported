@@ -37,7 +37,7 @@ We’re going to look at some of the translation management hurdles that you may
 ## Challenge #1: Looming Deadlines
 
 
-![](https://www.memsource.com/wp-content/uploads/2018/04/3-1024x512.png)
+![](/uploads/2018/04/3-1024x512.png)
 
 
 
@@ -49,7 +49,7 @@ Using this feature you can establish various rules, including a quota of words t
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/08/Macbook-NewUI-HD-300x220.png)](https://www.memsource.com/wp-content/uploads/2017/08/Macbook-NewUI-HD.png)Deadlines may not only be an issue on the buyer side but also on the translator's side. To ensure translators and suppliers are on track to meet their delivery dates, you can use the [Memsource project dashboard](https://help.memsource.com/hc/en-us/articles/115003483732-Understanding-Memsource-Project-Dashboards). It includes a progress bar where you can monitor the status of your projects in real-time. You can view the overall progress (overview of job statuses and issues across all workflow steps) or individual progress (overview of job statuses and issues in individual workflow steps and language combinations).
+[![](/uploads/2017/08/Macbook-NewUI-HD-300x220.png)](/uploads/2017/08/Macbook-NewUI-HD.png)Deadlines may not only be an issue on the buyer side but also on the translator's side. To ensure translators and suppliers are on track to meet their delivery dates, you can use the [Memsource project dashboard](https://help.memsource.com/hc/en-us/articles/115003483732-Understanding-Memsource-Project-Dashboards). It includes a progress bar where you can monitor the status of your projects in real-time. You can view the overall progress (overview of job statuses and issues across all workflow steps) or individual progress (overview of job statuses and issues in individual workflow steps and language combinations).
 
 
 
@@ -61,7 +61,7 @@ The progress bar is color-coded and allows you to quickly assess which projects 
 ## Challenge #2: Too many clicks
 
 
-![](https://www.memsource.com/wp-content/uploads/2018/04/4-1024x512.png)
+![](/uploads/2018/04/4-1024x512.png)
 
 
 
@@ -81,7 +81,7 @@ For further automation, you can use [integrations](https://www.memsource.com/int
 ## Challenge #3: Lost in Transition
 
 
-![](https://www.memsource.com/wp-content/uploads/2018/04/5-1024x512.png)
+![](/uploads/2018/04/5-1024x512.png)
 
 
 
@@ -101,7 +101,7 @@ In Memsource, when a workflow step is completed, the next person in line can be 
 ## Challenge #4: Delayed Updates
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/04/2-1024x512.png)](https://www.memsource.com/wp-content/uploads/2018/04/updating.jpg)
+[![](/uploads/2018/04/2-1024x512.png)](/uploads/2018/04/updating.jpg)
 
 
 
@@ -117,7 +117,7 @@ Project management challenges can easily be overcome with the right tools. Keep 
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/04/Ready-to-stop-stressing-about-deadlines_-Request-a-demo.-1024x215.png)](https://www.memsource.com/pricing2/)
+[![](/uploads/2018/04/Ready-to-stop-stressing-about-deadlines_-Request-a-demo.-1024x215.png)](https://www.memsource.com/pricing2/)
 
 
 

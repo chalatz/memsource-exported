@@ -24,4 +24,4 @@ Previously, if Project Managers wanted to edit the source and target languages o
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/ezgif.com-video-to-gif.gif)](https://www.memsource.com/wp-content/uploads/2018/01/ezgif.com-video-to-gif.gif)
+[![](/uploads/2018/01/ezgif.com-video-to-gif.gif)](/uploads/2018/01/ezgif.com-video-to-gif.gif)

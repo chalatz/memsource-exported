@@ -28,7 +28,7 @@ Memsourceを使うようになってから、実際にどのような効果が�
 <!-- more -->
 
 
-## [![WIP Japan様](https://www.memsource.com/wp-content/uploads/2018/03/WIP角抜き-300x197.png)](https://www.memsource.com/wp-content/uploads/2018/03/WIP角抜き.png)
+## [![WIP Japan様](/uploads/2018/03/WIP角抜き-300x197.png)](/uploads/2018/03/WIP角抜き.png)
 
 
 
@@ -109,7 +109,7 @@ Memsourceを使うようになってから、実際にどのような効果が�
 *ワードファイルのタグの数を最小限にするオプションは、下記のファイルインポートの設定からお選びください。
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/03/word-import-ja-300x160.png)](https://www.memsource.com/wp-content/uploads/2018/03/word-import-ja.png)
+[![](/uploads/2018/03/word-import-ja-300x160.png)](/uploads/2018/03/word-import-ja.png)
 
 
 
@@ -125,7 +125,7 @@ Memsourceを使うようになってから、実際にどのような効果が�
 
 
 
-### [![WIPジャパン　ロゴ](https://www.memsource.com/wp-content/uploads/2018/03/logo-300x300.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/logo.jpg)
+### [![WIPジャパン　ロゴ](/uploads/2018/03/logo-300x300.jpg)](/uploads/2018/03/logo.jpg)
 
 
 

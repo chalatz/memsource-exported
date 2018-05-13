@@ -55,7 +55,7 @@ After testing a number of CAT tools, Josi and the team chose Memsource for its [
 **
 The Setup**
 
-[![](https://www.memsource.com/wp-content/uploads/2017/12/Connox-Graphic-300x300.png)](https://www.memsource.com/wp-content/uploads/2017/12/Connox-Graphic.png)Connox localizes a variety of website content including product descriptions, names and details of the variants, and image names and descriptions. By using APIs, the files for translation can be exported from the in-house Connox system directly into Memsource and securely sent to agencies and translators. For new translation projects, there is an initial discussion about the project setup regarding term bases and style guides, and once established, the workflow happens efficiently without any unnecessary effort.
+[![](/uploads/2017/12/Connox-Graphic-300x300.png)](/uploads/2017/12/Connox-Graphic.png)Connox localizes a variety of website content including product descriptions, names and details of the variants, and image names and descriptions. By using APIs, the files for translation can be exported from the in-house Connox system directly into Memsource and securely sent to agencies and translators. For new translation projects, there is an initial discussion about the project setup regarding term bases and style guides, and once established, the workflow happens efficiently without any unnecessary effort.
 
 After the files are pulled into Memsource, translators around the world can collaborate, project statuses are updated in real-time, and translation memory reuses previous translations for consistency and savings. Once the translations are completed, checked for quality, and approved, the files are pushed back into Connox’s system. A final QA process occurs, and then the completed translations are published to the respective localized domains.
 
@@ -106,7 +106,7 @@ But it’s paying off. Revenue is up, translation workflows are streamlined, and
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/12/Josi-Circle-150x150.png)](https://www.memsource.com/wp-content/uploads/2017/12/Josi-Circle.png)
+[![](/uploads/2017/12/Josi-Circle-150x150.png)](/uploads/2017/12/Josi-Circle.png)
 
 **_“Memsource helps us to keep an eye on complex localization projects while being both simple and easy to handle. They have a support team that responds quickly to customers and accepts our suggestions and wishes. I can highly recommend this tool to everyone.”_**
 

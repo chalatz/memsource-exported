@@ -16,7 +16,7 @@ tags:
 
 The Salesforce Knowledge connector is the latest addition to our range of [CMS integrations](https://www.memsource.com/integrations/).  
 
-<!-- more -->[![](https://www.memsource.com/wp-content/uploads/2018/02/Salesforce_logo_1000.png)](https://www.memsource.com/wp-content/uploads/2018/02/Salesforce_logo_1000.png)
+<!-- more -->[![](/uploads/2018/02/Salesforce_logo_1000.png)](/uploads/2018/02/Salesforce_logo_1000.png)
 
 Salesforce Knowledge is a knowledge base for users of Salesforce, a customer relationship management platform. This connector pulls articles from Salesforce Knowledge directly into Memsource and then pushes the translated content back into the Salesforce system. 
 

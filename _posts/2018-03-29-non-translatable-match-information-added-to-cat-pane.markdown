@@ -15,7 +15,7 @@ tags:
 - Desktop Editor
 ---
 
-[![](https://www.memsource.com/wp-content/uploads/2018/03/Indication-of-NTs-CAT-Pane.png)](https://www.memsource.com/wp-content/uploads/2018/03/Indication-of-NTs-CAT-Pane.png)Users will now be able to see the origin of an NT match in the CAT pane. 
+[![](/uploads/2018/03/Indication-of-NTs-CAT-Pane.png)](/uploads/2018/03/Indication-of-NTs-CAT-Pane.png)Users will now be able to see the origin of an NT match in the CAT pane. 
 
 <!-- more -->
 

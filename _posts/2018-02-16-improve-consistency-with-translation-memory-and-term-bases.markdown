@@ -30,7 +30,7 @@ We’re getting ahead of ourselves though -- let’s talk about what these words
 
 With translation memory, once a segment has been translated and confirmed, it is automatically added to the database and will be automatically reused if the same or similar segment is detected. In Memsource, the translation memory feature suggests translation matches that range from 101% matches - meaning the content and context of a segment exactly matches the one stored - to fuzzy matches (1-99%) where the content and context differ. Fuzzy matches vary depending on how closely the segment matches the one stored in the translation memory. By default, Memsource only shows matches above 60%. To maintain quality, consistency, and coherence, it is important for a translator to check all matches below the 101% match.
 
-[![](https://www.memsource.com/wp-content/uploads/2017/08/cat_panel_in_web_editor.png)](https://www.memsource.com/wp-content/uploads/2017/08/cat_panel_in_web_editor.png) The Memsource translator workbench - translation memory matches are indicated in green, term bases (TB) are indicated in the right-hand panel
+[![](/uploads/2017/08/cat_panel_in_web_editor.png)](/uploads/2017/08/cat_panel_in_web_editor.png) The Memsource translator workbench - translation memory matches are indicated in green, term bases (TB) are indicated in the right-hand panel
 
 
 ## What is a Term Base?
@@ -48,7 +48,7 @@ Furthermore, it reduces the use of ambiguous terms which improves the overall cl
 ## Stop, Collaborate, and Maintain
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/02/Sharing-Projects-Graphic.png)](https://www.memsource.com/wp-content/uploads/2018/02/Sharing-Projects-Graphic.png)Because Memsource is a cloud platform, translation memories and term bases can be shared with all users working on a project. If changes are made to the term base or a segment is added to the translation memory, it will be available instantly and users won’t have to wait around for updates. Users can also make comments and share suggestions about the translations and terminology in real-time. Regardless of who is working on a project, terminology will be consistent and collaboration will be more harmonious.
+[![](/uploads/2018/02/Sharing-Projects-Graphic.png)](/uploads/2018/02/Sharing-Projects-Graphic.png)Because Memsource is a cloud platform, translation memories and term bases can be shared with all users working on a project. If changes are made to the term base or a segment is added to the translation memory, it will be available instantly and users won’t have to wait around for updates. Users can also make comments and share suggestions about the translations and terminology in real-time. Regardless of who is working on a project, terminology will be consistent and collaboration will be more harmonious.
 
 Since language is constantly evolving, maintaining term bases and translation memories is vital. Reviewing and approving new and updated terms should be done regularly by authorized users. Editing translation memory and term bases can be securely managed by limiting user rights to just a project manager or admin, or a lead linguist in a target language. As Aristotle said, ‘Quality is not an act, it is a habit’, so to guarantee the best output, reviewing and maintenance should be routine.
 

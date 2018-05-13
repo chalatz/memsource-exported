@@ -25,7 +25,7 @@ tags:
 
 ショートカットキーやショートカットキーで呼び出せる機能の検索もこちらから行えます。
 
-[![](https://www.memsource.com/wp-content/uploads/2017/12/Customizable-shortcuts-gif.gif)](https://www.memsource.com/wp-content/uploads/2017/12/Customizable-shortcuts-gif.gif)
+[![](/uploads/2017/12/Customizable-shortcuts-gif.gif)](/uploads/2017/12/Customizable-shortcuts-gif.gif)
 
 こちらの新機能は「Memsource デスクトップエディタ 6.208.3」から実装されています。エディタの最新バージョンへのアップデートは自動的に行われますが、[こちらのダウンロードページ](/?page_id=16741)から最新バージョンをダウンロードすることもできます。
 

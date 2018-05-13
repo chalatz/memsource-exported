@@ -23,6 +23,6 @@ Over one million new words have been added to our dictionaries to reduce the num
 
 Overall, the improvements we have made to the spell-checker dictionaries have made them a lot more user friendly; linguists can now work even more efficiently and accurately in Memsource Desktop Editor and Web Editor.
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/Improved-spellchecker-chart.png)](https://www.memsource.com/wp-content/uploads/2018/01/Improved-spellchecker-chart.png)
+[![](/uploads/2018/01/Improved-spellchecker-chart.png)](/uploads/2018/01/Improved-spellchecker-chart.png)
 
 See how the spell-checker works in the [Desktop Editor](https://help.memsource.com/hc/en-us/articles/115003643112) and [Web Editor](https://help.memsource.com/hc/en-us/articles/115003643532-Spellchecker). Which languages and spell-checker dictionaries are supported in Memsource? [See the full list.](https://help.memsource.com/hc/en-us/articles/115003929811-Supported-Languages)

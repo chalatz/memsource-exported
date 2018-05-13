@@ -21,7 +21,7 @@ When the translation is complete and the Photoshop file is exported, the hidden 
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/11/PSD_import-2.png)](https://www.memsource.com/wp-content/uploads/2017/11/PSD_import-2.png)
+[![](/uploads/2017/11/PSD_import-2.png)](/uploads/2017/11/PSD_import-2.png)
 
 —
 

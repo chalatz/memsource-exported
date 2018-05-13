@@ -34,7 +34,7 @@ We have also made some changes to our keyboard shortcuts. Ctrl+M can now be used
 
 Learn more about using [Conversations ](https://help.memsource.com/hc/en-us/articles/115003462171-Conversations-in-Memsource-Editors)in Memsource Desktop Editor and Web Editor.
 
-[![](https://www.memsource.com/wp-content/uploads/2018/02/ezgif.com-video-to-gif-5.gif)](https://www.memsource.com/wp-content/uploads/2018/02/ezgif.com-video-to-gif-5.gif)
+[![](/uploads/2018/02/ezgif.com-video-to-gif-5.gif)](/uploads/2018/02/ezgif.com-video-to-gif-5.gif)
 
 
 
@@ -46,7 +46,7 @@ Some types of files that can be translated in Memsource store[ contextual inform
 
 The Context Key and Context Note are displayed in the Context section at the bottom of the Editors.
 
-[![](https://www.memsource.com/wp-content/uploads/2018/02/TE-Filter-by-Context-Information.png)](https://www.memsource.com/wp-content/uploads/2018/02/TE-Filter-by-Context-Information.png)
+[![](/uploads/2018/02/TE-Filter-by-Context-Information.png)](/uploads/2018/02/TE-Filter-by-Context-Information.png)
 
 There are now options to filter segments based on the Context Key and Context Note. These options are in the drop-down list of Filter settings next to the filter window.
 

@@ -31,7 +31,7 @@ Dr Bohm was initially introduced to Memsource through a former student who star
 ### Finding a Unique Solution
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/11/puzzle-150x150.png)](https://www.memsource.com/wp-content/uploads/2017/11/puzzle.png)Dr Bohm’s plan for implementing the platform into his courses required the development of a specific solution in order to give the students the full experience. He wanted all participants of the courses to use the platform in a project manager role in order to **display the full chain of tasks** associated with the production of a translation.
+[![](/uploads/2017/11/puzzle-150x150.png)](/uploads/2017/11/puzzle.png)Dr Bohm’s plan for implementing the platform into his courses required the development of a specific solution in order to give the students the full experience. He wanted all participants of the courses to use the platform in a project manager role in order to **display the full chain of tasks** associated with the production of a translation.
 
 After a little brainstorming, we were able to find a solution that allowed the implementation to occur, while still maintaining a reasonable level of user accounts. With this solution, Dr Bohm was able to set up the license for Leipzig University and proceed with organizing the course and use Memsource as an educational tool:
 
@@ -40,7 +40,7 @@ After a little brainstorming, we were able to find a solution that allowed the i
 Dr Bohm also asked his students to share their own findings about Memsource. This is the feedback he received:
 
 
-### Advantages[![](https://www.memsource.com/wp-content/uploads/2017/11/heart-150x150.png)](https://www.memsource.com/wp-content/uploads/2017/11/heart.png)
+### Advantages[![](/uploads/2017/11/heart-150x150.png)](/uploads/2017/11/heart.png)
 
 
 
@@ -99,14 +99,14 @@ We understand the basis of these fears and we saw this as an opportunity to clea
 ### The Pricing
 
 
-[![](https://www.memsource.com/wp-content/uploads/2017/11/credit-card-150x150.png)](https://www.memsource.com/wp-content/uploads/2017/11/credit-card.png)The pricing is different from the model used most commonly by desktop-based tool providers. The issue with desktop tools is that you not only pay a considerable amount of money when purchasing them at the beginning, you also pay for the upgrades each year. The online support often costs extra as well.
+[![](/uploads/2017/11/credit-card-150x150.png)](/uploads/2017/11/credit-card.png)The pricing is different from the model used most commonly by desktop-based tool providers. The issue with desktop tools is that you not only pay a considerable amount of money when purchasing them at the beginning, you also pay for the upgrades each year. The online support often costs extra as well.
 
 With Memsource, the upfront costs are minimal and all the upgrades, updates and online support are free of charge. Furthermore, you can cancel or renew your subscription at any time so if you don’t work in Memsource for a month then you don’t have to pay for that month. On top of that, the 1+ Freelancers license, which costs 20 EUR a month, can be shared by a team of translators.
 
 If you take all of this into consideration, **Memsource is actually a cheaper option** than the desktop-based solutions.
 
 
-### Security of the Cloud[![](https://www.memsource.com/wp-content/uploads/2017/11/shield-150x150.png)](https://www.memsource.com/wp-content/uploads/2017/11/shield.png)
+### Security of the Cloud[![](/uploads/2017/11/shield-150x150.png)](/uploads/2017/11/shield.png)
 
 
 With numerous concerns about the security of a Cloud-based solution, we felt we should clear things up. When a client uploads a project to the Cloud in Memsource, it stays in his or her hands through the entire process – the owner of the data only shares access to files stored in his private Cloud. You always know where your data is and you can be certain that others are not able to use it wrongfully.

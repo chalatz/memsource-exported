@@ -16,7 +16,7 @@ tags:
 - Connectors
 ---
 
-[![](https://www.memsource.com/wp-content/uploads/2018/02/Bitbucket@2x-blue.png)](https://www.memsource.com/wp-content/uploads/2018/02/Bitbucket@2x-blue.png)
+[![](/uploads/2018/02/Bitbucket@2x-blue.png)](/uploads/2018/02/Bitbucket@2x-blue.png)
 
 We have developed a new connector for the online repository Bitbucket Server. 
 

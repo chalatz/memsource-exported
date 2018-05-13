@@ -13,7 +13,7 @@ tags:
 - イベント
 ---
 
-**[![特許・情報フェア＆コンファレンス](https://www.memsource.com/wp-content/uploads/2017/10/2017logo.png)](https://www.memsource.com/wp-content/uploads/2017/10/2017logo.png)**
+**[![特許・情報フェア＆コンファレンス](/uploads/2017/10/2017logo.png)](/uploads/2017/10/2017logo.png)**
 
 
 ### [**「特許･情報フェア＆コンファレンス」**](http://www.pifc.jp/2017/)**に共同出展します**
@@ -30,7 +30,7 @@ Memsourceは、操作がわかりやすいため、これまで翻訳支援ツ�
 
 **特許翻訳の現場でどのようにMemsourceが使われているのか、皆様の翻訳のフローをどのように効率化できるか、ご興味ある方はぜひお立ち寄りください。**
 
-[![Memsourceを軸にしたワークフロー](https://www.memsource.com/wp-content/uploads/2017/10/システム図-300x250.png)](https://www.memsource.com/wp-content/uploads/2017/10/システム図.png)
+[![Memsourceを軸にしたワークフロー](/uploads/2017/10/システム図-300x250.png)](/uploads/2017/10/システム図.png)
 
 **【イベント概要】**
 —————————————————————————————————

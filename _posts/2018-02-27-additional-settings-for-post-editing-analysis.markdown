@@ -25,7 +25,7 @@ To find out more, see our [Post-editing Analysis](https://help.memsource.com/hc/
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/02/Post-Editing-Analysis-Options.png)](https://www.memsource.com/wp-content/uploads/2018/02/Post-Editing-Analysis-Options.png) _Post-editing Analysis Options_
+[![](/uploads/2018/02/Post-Editing-Analysis-Options.png)](/uploads/2018/02/Post-Editing-Analysis-Options.png) _Post-editing Analysis Options_
 
 
 

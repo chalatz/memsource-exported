@@ -13,7 +13,7 @@ categories:
 
 
 
-![ユーザー交流会の様子](https://www.memsource.com/wp-content/uploads/2017/12/24259721_10155386747703439_209004266_o-e1512438524860-1024x894.jpg)
+![ユーザー交流会の様子](/uploads/2017/12/24259721_10155386747703439_209004266_o-e1512438524860-1024x894.jpg)
 
 日本翻訳連盟（JTF）が主催するJTF翻訳祭 2017が盛況のうちに幕を閉じました。年々注目度を増す翻訳の一大イベントは今年も大変な熱気に包まれていました。そしてその翌日にチェコ大使館で開催したMemsource ユーザー交流会（東京）には多くのユーザー様にお集まりいただきました。両イベントの様子をお伝えいたします。
 
@@ -28,7 +28,7 @@ categories:
 ## JTF翻訳祭 2017
 
 
-[![メムソースブース](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0686-1024x657.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0686.jpg)
+[![メムソースブース](/uploads/2017/12/CIMG0686-1024x657.jpg)](/uploads/2017/12/CIMG0686.jpg)
 
 
 
@@ -36,7 +36,7 @@ JTF翻訳祭は今回で27回目を迎える日本最大級の翻訳業界イベ
 
 Memsourceは今年もブースを出展しました。あっという間の短い時間でしたが、チェコ本社から駆けつけたスタッフとともに、来場者をお出迎えいたしました。
 
-[![Memsourcse製品プレゼンテーション](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0696-300x286.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0696.jpg)[![機械翻訳とMemsourceの連携について](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0714-300x225.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0714.jpg)
+[![Memsourcse製品プレゼンテーション](/uploads/2017/12/CIMG0696-300x286.jpg)](/uploads/2017/12/CIMG0696.jpg)[![機械翻訳とMemsourceの連携について](/uploads/2017/12/CIMG0714-300x225.jpg)](/uploads/2017/12/CIMG0714.jpg)
 
 
 
@@ -68,7 +68,7 @@ Memsourceは今年もブースを出展しました。あっという間の短�
 
 そしてその翌日、11月30日にはMemsourceのユーザー交流会を開催しました。こちらにも多くの方に足をお運びいただきまして、ありがとうございました。
 
-[![User Training](https://www.memsource.com/wp-content/uploads/2017/12/CIMG07211-300x213.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/CIMG07211.jpg)[![セールスディレクターJosefからMemsource社と今後の展望について](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0734-1-300x271.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0734-1.jpg)
+[![User Training](/uploads/2017/12/CIMG07211-300x213.jpg)](/uploads/2017/12/CIMG07211.jpg)[![セールスディレクターJosefからMemsource社と今後の展望について](/uploads/2017/12/CIMG0734-1-300x271.jpg)](/uploads/2017/12/CIMG0734-1.jpg)
 
 
 
@@ -92,7 +92,7 @@ Memsourceは今年もブースを出展しました。あっという間の短�
 
 
 
-[![チェコ大使館のお料理](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0739-295x300.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/CIMG0739.jpg)[![ユーザー様同士の歓談タイム](https://www.memsource.com/wp-content/uploads/2017/12/24271407_10155386747948439_1529413546_o-300x141.jpg)](https://www.memsource.com/wp-content/uploads/2017/12/24271407_10155386747948439_1529413546_o.jpg)
+[![チェコ大使館のお料理](/uploads/2017/12/CIMG0739-295x300.jpg)](/uploads/2017/12/CIMG0739.jpg)[![ユーザー様同士の歓談タイム](/uploads/2017/12/24271407_10155386747948439_1529413546_o-300x141.jpg)](/uploads/2017/12/24271407_10155386747948439_1529413546_o.jpg)
 
 
 

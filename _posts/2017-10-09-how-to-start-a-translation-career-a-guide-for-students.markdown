@@ -83,7 +83,7 @@ Often, your client may think they understand what they need, but are actually mi
 
 In summary, as an active member of the localization community, it is important to provide high-quality service that is tailored to the needs of your clients. Your pricing should be fair to clients while remaining high enough to keep you motivated. Understand the value of your work, invest in both your specialty and your technical set-up, and compete with quality, not with rates. Lastly, take advantage of the latest language technologies in order to save everyone time and - ultimately - money.
 
-[![](https://www.memsource.com/wp-content/uploads/2017/10/EU_Class-1024x576.jpg)](https://www.memsource.com/wp-content/uploads/2017/09/EU_Class.jpg)
+[![](/uploads/2017/10/EU_Class-1024x576.jpg)](/uploads/2017/09/EU_Class.jpg)
 
 Caption: Senior EU and UN linguists speaking about careers in their institutions to University of Leeds students during the yearly [CTS](http://www.leeds.ac.uk/arts/info/125053/centre_for_translation_studies) Language Technologies Training Week
 

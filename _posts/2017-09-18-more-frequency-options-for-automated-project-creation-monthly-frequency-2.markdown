@@ -18,4 +18,4 @@ We have extended the options of the automated project creation rules by monthly 
 
 You can now add one or more days in a month.
 
-[![](https://www.memsource.com/wp-content/uploads/2017/09/frequency.png)](https://www.memsource.com/wp-content/uploads/2017/09/frequency.png).
+[![](/uploads/2017/09/frequency.png)](/uploads/2017/09/frequency.png).

@@ -24,7 +24,7 @@ In December last year, the first participants became Memsource Certified Student
 
 <!-- more -->
 
-![Memsource Certified Student](https://www.memsource.com/wp-content/uploads/2018/02/tag-300x150.png)
+![Memsource Certified Student](/uploads/2018/02/tag-300x150.png)
 
 The story begins a lot earlier than that, however. The idea of certifying students’ skills in using Memsource and being able to navigate through the complexities of translation project management processes popped up in early 2017 and was quickly recognized as a valuable opportunity to get closer to students trained in Memsource.
 
@@ -58,7 +58,7 @@ To guarantee students were led by Memsource professionals, we asked the lecturer
 
 
 
-## [![Memsource Student Certification Program](https://www.memsource.com/wp-content/uploads/2018/01/MSCP-Banner-1024x512.png)](https://www.memsource.com/wp-content/uploads/2018/01/MSCP-Banner.png)
+## [![Memsource Student Certification Program](/uploads/2018/01/MSCP-Banner-1024x512.png)](/uploads/2018/01/MSCP-Banner.png)
 
 
 
@@ -79,7 +79,7 @@ We interviewed Anna and Lea, the two students with flawless test files, and also
 
 
 
-[![Certification Survey](https://www.memsource.com/wp-content/uploads/2018/02/chart.png)](https://www.memsource.com/wp-content/uploads/2018/02/chart.png)
+[![Certification Survey](/uploads/2018/02/chart.png)](/uploads/2018/02/chart.png)
 
 
 

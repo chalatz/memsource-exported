@@ -39,7 +39,7 @@ Memsource Cloudで利用頻度の高い言語ペア100組についての調査�
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/Non-translatable-pie-graph.png)](https://www.memsource.com/wp-content/uploads/2018/01/Non-translatable-pie-graph.png)
+[![](/uploads/2018/01/Non-translatable-pie-graph.png)](/uploads/2018/01/Non-translatable-pie-graph.png)
 
 
 
@@ -51,7 +51,7 @@ AIを利用してこれらの箇所を特定し、前翻訳の段階で確定、
 ## 機能の詳細
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)
+[![](/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)](/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)
 
 
 
@@ -77,7 +77,7 @@ AIを利用してこれらの箇所を特定し、前翻訳の段階で確定、
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Default_Analysis.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Default_Analysis.png)
+[![](/uploads/2018/01/AI-NTs_Default_Analysis.png)](/uploads/2018/01/AI-NTs_Default_Analysis.png)
 
 
 
@@ -85,7 +85,7 @@ AIを利用してこれらの箇所を特定し、前翻訳の段階で確定、
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)
+[![](/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)](/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)
 
 
 
@@ -93,7 +93,7 @@ AIを利用してこれらの箇所を特定し、前翻訳の段階で確定、
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench.png)
+[![](/uploads/2018/01/AI-Non-translatables-Workbench.png)](/uploads/2018/01/AI-Non-translatables-Workbench.png)
 
 
 
@@ -101,7 +101,7 @@ AIを利用してこれらの箇所を特定し、前翻訳の段階で確定、
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/03/Net-rate-schemes-NTs.png)](https://www.memsource.com/wp-content/uploads/2018/03/Net-rate-schemes-NTs.png)
+[![](/uploads/2018/03/Net-rate-schemes-NTs.png)](/uploads/2018/03/Net-rate-schemes-NTs.png)
 
 
 
@@ -109,13 +109,13 @@ AIを利用してこれらの箇所を特定し、前翻訳の段階で確定、
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)
+[![](/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)](/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)
 
 
 ## AIチームの発足
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg) The Memsource AI team, led by Dalibor Frívaldský (top, right)
+[![](/uploads/2018/01/AI-Team.jpg)](/uploads/2018/01/AI-Team.jpg) The Memsource AI team, led by Dalibor Frívaldský (top, right)
 
 
 

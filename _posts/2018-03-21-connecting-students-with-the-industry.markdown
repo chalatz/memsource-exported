@@ -23,7 +23,7 @@ Back in 2016, when I became responsible for the [Memsource Academic Edition](htt
 
 <!-- more -->
 
-[![](https://www.memsource.com/wp-content/uploads/2018/08/graph-300x278.png)](https://www.memsource.com/wp-content/uploads/2018/08/graph.png)As the number of universities offering training in Memsource grew – and quite significantly, I must compliment myself, as it doubled from 56 to 103 in a year – the objectives began to shift. We used 2017 to better understand our clients, the professors supporting our program, and knowing how they worked with Memsource and how we could adapt the program to better suit their expectations.
+[![](/uploads/2018/08/graph-300x278.png)](/uploads/2018/08/graph.png)As the number of universities offering training in Memsource grew – and quite significantly, I must compliment myself, as it doubled from 56 to 103 in a year – the objectives began to shift. We used 2017 to better understand our clients, the professors supporting our program, and knowing how they worked with Memsource and how we could adapt the program to better suit their expectations.
 
 I had the invaluable opportunity to peep into the mechanics of a number of different translation programs, to see how trainings were structured, and how students get to know about our tool. Thanks to that, I was able to identify what Memsource could do to further help students become prepared for the translation industry – and actually offer the professors a chance to give feedback and talk through future ideas.
 
@@ -64,7 +64,7 @@ _–_ [Hana Laurenzo](https://www.linkedin.com/in/hanalaurenzo/), Founder and C
 
 The project was started with the help of Hana and the Teneo Linguistics Company, as well as the two universities where the first student participants came from: Middlebury Institute of International Studies at Monterey and University of Puerto Rico.
 
-[![](https://www.memsource.com/wp-content/uploads/2018/08/Hana-Laurenzo-Quote.png)](https://www.memsource.com/wp-content/uploads/2018/08/Hana-Laurenzo-Quote.png)
+[![](/uploads/2018/08/Hana-Laurenzo-Quote.png)](/uploads/2018/08/Hana-Laurenzo-Quote.png)
 
 Hana's decision to join the pilot project was straightforward: “It seems there simply is no downside! The linguists who work with us are the pillar of our business. We rely on them day in and day out. Therefore, we are always on the lookout for new talent and appreciate being connected with students who, one day, may become an important resource to us. We also invest a lot of effort into training and educating those who work with us. So we have been on the same page with Memsource from the start.”
 
@@ -84,7 +84,7 @@ _“The cooperation has helped me practice with the program, and it has also giv
 
 Building on the positive feedback and invaluable experience we gained during the pilot, we’re scaling it into a full-scale project this year. This means that we will offer it to a larger number of both universities and translation agencies.
 
-[![](https://www.memsource.com/wp-content/uploads/2018/08/tag-300x150.png)](https://www.memsource.com/wp-content/uploads/2018/08/tag.png)Since we want to be able to ensure high level of knowledge and skills of the students we promote, however, we have decided to limit the program to professors and students meeting certain criteria:
+[![](/uploads/2018/08/tag-300x150.png)](/uploads/2018/08/tag.png)Since we want to be able to ensure high level of knowledge and skills of the students we promote, however, we have decided to limit the program to professors and students meeting certain criteria:
 
 
 

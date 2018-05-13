@@ -32,7 +32,7 @@ Speakers: Elise Lee (Microsoft), Andrew Vestal (Microsoft)
 
 
 
-![](https://www.memsource.com/wp-content/uploads/2014/10/LeeE.jpg)![](https://www.memsource.com/wp-content/uploads/2014/10/Vestal.jpg)
+![](/uploads/2014/10/LeeE.jpg)![](/uploads/2014/10/Vestal.jpg)
 
 
 
@@ -55,7 +55,7 @@ Caroline Koff (Hewlett-Packard)
 
 
 
-![](https://www.memsource.com/wp-content/uploads/2014/10/Koff.jpg)
+![](/uploads/2014/10/Koff.jpg)
 
 
 
@@ -79,7 +79,7 @@ Matt Koidin (Pocket), Bryan Lopuck (Hotel Tonight), Silvia Oviedo-Lopez (Pintere
 
 
 
-![](https://www.memsource.com/wp-content/uploads/2014/10/Koidin.jpg)![](https://www.memsource.com/wp-content/uploads/2014/10/Lopuck.jpg)![](https://www.memsource.com/wp-content/uploads/2014/10/OviedoLopez.jpg)
+![](/uploads/2014/10/Koidin.jpg)![](/uploads/2014/10/Lopuck.jpg)![](/uploads/2014/10/OviedoLopez.jpg)
 
 
 
@@ -102,7 +102,7 @@ Alan Porter (Caterpillar Inc.)
 
 
 
-![](https://www.memsource.com/wp-content/uploads/2014/10/PorterA.jpg)
+![](/uploads/2014/10/PorterA.jpg)
 
 
 
@@ -125,7 +125,7 @@ Salvo Giammarresi (PayPal)
 
 
 
-![](https://www.memsource.com/wp-content/uploads/2014/10/Giammarresi.jpg)
+![](/uploads/2014/10/Giammarresi.jpg)
 
 
 

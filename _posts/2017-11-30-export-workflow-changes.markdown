@@ -13,11 +13,11 @@ categories:
 
 
 
-[![変更履歴一覧](https://www.memsource.com/wp-content/uploads/2017/11/変更履歴一覧表.png)](https://www.memsource.com/wp-content/uploads/2017/11/変更履歴一覧表.png)Memsourceのプロジェクトにワークフローを設定している場合、各ステップでの変更履歴を一覧で表示することができます。こちらの機能は、ワークフローをサポートしているエディション（チームおよびBizの各エディション）でご利用いただけます。<!-- more -->
+[![変更履歴一覧](/uploads/2017/11/変更履歴一覧表.png)](/uploads/2017/11/変更履歴一覧表.png)Memsourceのプロジェクトにワークフローを設定している場合、各ステップでの変更履歴を一覧で表示することができます。こちらの機能は、ワークフローをサポートしているエディション（チームおよびBizの各エディション）でご利用いただけます。<!-- more -->
 
 
 
-[![変更履歴一覧表示方法](https://www.memsource.com/wp-content/uploads/2017/11/ダッシュボード-1-1024x483.jpg)](https://www.memsource.com/wp-content/uploads/2017/11/ダッシュボード-1.jpg)
+[![変更履歴一覧表示方法](/uploads/2017/11/ダッシュボード-1-1024x483.jpg)](/uploads/2017/11/ダッシュボード-1.jpg)
 
 
 

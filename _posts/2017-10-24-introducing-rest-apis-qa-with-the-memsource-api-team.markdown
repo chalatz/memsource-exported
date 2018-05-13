@@ -27,9 +27,9 @@ Wednesday, October 25, 2017, 17:00 CEST
 
 With the advancement of technology and an ever-increasing number of [connectors and integrations](https://www.memsource.com/integrations/), APIs are being used more and more by Memsource users to customize the system according to their policies or specific workflows. Over the past two years, API usage in Memsource Cloud has increased from around 30,000,000 monthly calls to between an average of 40,000,000-50,000,000 monthly calls.
 
-[![](https://www.memsource.com/wp-content/uploads/2017/10/Monthly-API-Calls-2-years1.png)](https://www.memsource.com/wp-content/uploads/2017/10/Monthly-API-Calls-2-years1.png) Number of monthly API calls in Memsource Cloud from January 2016 - October 2017
+[![](/uploads/2017/10/Monthly-API-Calls-2-years1.png)](/uploads/2017/10/Monthly-API-Calls-2-years1.png) Number of monthly API calls in Memsource Cloud from January 2016 - October 2017
 
-[![](https://www.memsource.com/wp-content/uploads/2017/10/Daily-API-Calls-6-months-1024x429.png)](https://www.memsource.com/wp-content/uploads/2017/10/Daily-API-Calls-6-months.png) Daily API calls from May 2017 - October 2017
+[![](/uploads/2017/10/Daily-API-Calls-6-months-1024x429.png)](/uploads/2017/10/Daily-API-Calls-6-months.png) Daily API calls from May 2017 - October 2017
 
 Additionally, the Memsource platform uses the same APIs it offers to its clients. This allows us to ensure the highest quality data transfers are utilized and encourages us to constantly develop and improve it for our clients. Within Memsource, APIs are used in Memsource Cloud, both web and desktop editors, and the new mobile app.
 

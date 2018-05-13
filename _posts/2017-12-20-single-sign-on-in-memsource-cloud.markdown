@@ -36,7 +36,7 @@ Single sign-on enables users to log in just once to a central identity provider 
   * 
 
  	
-    * **Improved security: **Employees are using more and more apps. Lots of different usernames and passwords for different apps can put a company network and company data at risk because it can be difficult to securely manage all the passwords. With SSO, it is much easier for companies to enforce a more rigorous password policy, and when used alongside other features like [2-factor authentication](https://www.memsource.com/blog/2016/12/02/enhancing-account-security-with-two-factor-authentication/), can drastically improve account security. Read about the [different ways Memsource Cloud enhances security (PDF)](https://www.memsource.com/wp-content/uploads/2017/12/Data-Security-EN.pdf).
+    * **Improved security: **Employees are using more and more apps. Lots of different usernames and passwords for different apps can put a company network and company data at risk because it can be difficult to securely manage all the passwords. With SSO, it is much easier for companies to enforce a more rigorous password policy, and when used alongside other features like [2-factor authentication](https://www.memsource.com/blog/2016/12/02/enhancing-account-security-with-two-factor-authentication/), can drastically improve account security. Read about the [different ways Memsource Cloud enhances security (PDF)](/uploads/2017/12/Data-Security-EN.pdf).
 
 
 

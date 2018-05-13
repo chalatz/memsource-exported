@@ -24,7 +24,7 @@ categories:
 
 
 
-<blockquote>[![Mr. Kataoka from Honyaku-Shuppan-sha](https://www.memsource.com/wp-content/uploads/2018/01/Mr.Kataoka-150x150.png)](https://www.memsource.com/wp-content/uploads/2018/01/Mr.Kataoka.png)
+<blockquote>[![Mr. Kataoka from Honyaku-Shuppan-sha](/uploads/2018/01/Mr.Kataoka-150x150.png)](/uploads/2018/01/Mr.Kataoka.png)
 
 弊社ではもともと他の翻訳支援ツールを導入していましたが、翻訳者の方にとっての導入費用が高くインターフェイスが複雑でした。
 
@@ -42,7 +42,7 @@ MEMSOURCEは翻訳者の方に無料で使っていただけますし、プロ�
 
 
 
-<blockquote>[![Mr. Kataoka from Honyaku-Shuppan-sha](https://www.memsource.com/wp-content/uploads/2018/01/Mr.Kataoka-150x150.png)](https://www.memsource.com/wp-content/uploads/2018/01/Mr.Kataoka.png)
+<blockquote>[![Mr. Kataoka from Honyaku-Shuppan-sha](/uploads/2018/01/Mr.Kataoka-150x150.png)](/uploads/2018/01/Mr.Kataoka.png)
 
 これまで翻訳支援ツールを避けてきたベテラン翻訳者にも使っていただくことができました。
 
@@ -68,7 +68,7 @@ Memsourceには　ケアレスミスを防ぐための31種類の品質保証（
 
 
 
-<blockquote>[![Mr. Kataoka from Honyaku-Shuppan-sha](https://www.memsource.com/wp-content/uploads/2018/01/Mr.Kataoka-150x150.png)](https://www.memsource.com/wp-content/uploads/2018/01/Mr.Kataoka.png)
+<blockquote>[![Mr. Kataoka from Honyaku-Shuppan-sha](/uploads/2018/01/Mr.Kataoka-150x150.png)](/uploads/2018/01/Mr.Kataoka.png)
 
 ワークフロー管理、ワークフロー間の変更履歴エクスポート機能やプロジェクトステータスオートメーションなどを活用しています。
 
@@ -98,7 +98,7 @@ Memsourceは、翻訳完了時など、作業者がステータスを変更す�
 ---------------------------------------------------------------------------
 
 
-### [![ホンヤク出版社](https://www.memsource.com/wp-content/uploads/2018/01/Honyaku-shuppan-sha-logo-300x54.png)](https://www.honyaku-shuppan-sha.co.jp/)
+### [![ホンヤク出版社](/uploads/2018/01/Honyaku-shuppan-sha-logo-300x54.png)](https://www.honyaku-shuppan-sha.co.jp/)
 
 
 ホンヤク出版社は1957年の創業以来、マニュアル制作会社として技術文書を中心にさまざまな翻訳を行っています。

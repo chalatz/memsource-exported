@@ -25,7 +25,7 @@ To use this feature, you will need to download the latest version of the Memsour
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/04/WordPress_Translatable-Content-e1522832018605.png)](https://www.memsource.com/wp-content/uploads/2018/04/WordPress_Translatable-Content.png) Translatable content page with custom fields
+[![](/uploads/2018/04/WordPress_Translatable-Content-e1522832018605.png)](/uploads/2018/04/WordPress_Translatable-Content.png) Translatable content page with custom fields
 
 
 

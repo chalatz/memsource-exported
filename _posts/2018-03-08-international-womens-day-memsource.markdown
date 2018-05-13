@@ -16,7 +16,7 @@ categories:
 
  
 
-![](https://www.memsource.com/wp-content/uploads/2018/03/IMG_1714-1024x715.jpg)
+![](/uploads/2018/03/IMG_1714-1024x715.jpg)
 
 
 
@@ -32,7 +32,7 @@ Meet Jana Trojanova, Jitka Hankova, and Laura Radaelli -- a powerful trio comp
 ## Tell us about your career path.
 
 
-**![](https://www.memsource.com/wp-content/uploads/2018/03/2-300x300.png)**
+**![](/uploads/2018/03/2-300x300.png)**
 
 
 
@@ -64,7 +64,7 @@ I didn't actually cross paths with the tech industry until after finishing my ba
 
 **Jana:** There are really few women in the field, but I don’t feel like an outsider. I have met a few men (usually born before the 1950’s) who were not so happy to see women in the tech field, but it just gave me more electricity to try harder and show them that women are as good as any man. Otherwise everyone has been very supportive. For me, success is the motivator. When trying new approaches we often end up at a dead end, but you have to give it a couple of tries. Every small success provides the motivation to continue and finish the whole thing.
 
-**![](https://www.memsource.com/wp-content/uploads/2018/03/1-300x300.png)**
+**![](/uploads/2018/03/1-300x300.png)**
 
 
 
@@ -98,7 +98,7 @@ Yes, most of the times I could count my female colleagues on the palm of one han
 
 While I was living in Israel, I was participating in events organized by a group named "she codes;". It was basically gathering of tech women, sometimes giving an overview of tech projects or introductory courses to new technologies. I recently heard of a cool organization in the Czech Republic that cares about educating girls/women in technology: Czechitas. Unfortunately most of their events are in Czech, so still out of my reach.  
 
-**![](https://www.memsource.com/wp-content/uploads/2018/03/3-300x300.png)**
+**![](/uploads/2018/03/3-300x300.png)**
 
 
 
@@ -136,7 +136,7 @@ There are also many projects dedicated to inspiring young girls to enter the tec
 ## Happy International Women's Day from all of us at Memsource!
 
 
-![](https://www.memsource.com/wp-content/uploads/2018/03/Connectors-Twitter-1-1024x512.jpg)
+![](/uploads/2018/03/Connectors-Twitter-1-1024x512.jpg)
 
 
 

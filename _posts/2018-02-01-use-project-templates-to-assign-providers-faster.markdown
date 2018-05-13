@@ -48,6 +48,6 @@ If you can’t see the project template you want to use in the list, you will ne
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/ezgif.com-video-to-gif-2.gif)](https://www.memsource.com/wp-content/uploads/2018/01/ezgif.com-video-to-gif-2.gif)
+[![](/uploads/2018/01/ezgif.com-video-to-gif-2.gif)](/uploads/2018/01/ezgif.com-video-to-gif-2.gif)
 
 

@@ -22,13 +22,13 @@ categories:
 ## フェロー・アカデミー校の様子
 
 
-[![校舎の様子](https://www.memsource.com/wp-content/uploads/2018/03/midori-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/midori.jpg) 青山一丁目に位置しており、都内各所からアクセス良好です。
+[![校舎の様子](/uploads/2018/03/midori-300x200.jpg)](/uploads/2018/03/midori.jpg) 青山一丁目に位置しており、都内各所からアクセス良好です。
 
-[![教室の様子](https://www.memsource.com/wp-content/uploads/2018/03/PCｓ-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/PCｓ.jpg) 一人に一台のPCには翻訳支援ソフトがインストールされており、実践的に学べます。
+[![教室の様子](/uploads/2018/03/PCｓ-300x200.jpg)](/uploads/2018/03/PCｓ.jpg) 一人に一台のPCには翻訳支援ソフトがインストールされており、実践的に学べます。
 
-[![託児所の様子](https://www.memsource.com/wp-content/uploads/2018/03/guide_06-1-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/guide_06-1.jpg) 託児サービスも利用できるので、お子さんがいる方も安心ですね。
+[![託児所の様子](/uploads/2018/03/guide_06-1-300x200.jpg)](/uploads/2018/03/guide_06-1.jpg) 託児サービスも利用できるので、お子さんがいる方も安心ですね。
 
-[![自習室の様子](https://www.memsource.com/wp-content/uploads/2018/03/study-room-300x200.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/study-room.jpg) 受講生同士の交流の場でもあるスタディルーム
+[![自習室の様子](/uploads/2018/03/study-room-300x200.jpg)](/uploads/2018/03/study-room.jpg) 受講生同士の交流の場でもあるスタディルーム
 
 
 ## 翻訳支援ツール基本操作講習の様子
@@ -38,7 +38,7 @@ categories:
 
 講師は、[日本翻訳連盟（JTF）](http://www.jtf.jp/)理事としてもご活躍されている高橋聡先生。 高橋先生は翻訳関連のイベントでもよく講演をされています。[ご自身のブログ](http://baldhatter.txt-nifty.com/misc/)でも翻訳や業界についての深い洞察を発信されています。
 
-[![高橋講師による授業の様子](https://www.memsource.com/wp-content/uploads/2018/03/IMG_20180226_195021-300x225.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/IMG_20180226_195021.jpg) 高橋先生による授業の様子
+[![高橋講師による授業の様子](/uploads/2018/03/IMG_20180226_195021-300x225.jpg)](/uploads/2018/03/IMG_20180226_195021.jpg) 高橋先生による授業の様子
 
 今回の講座では翻訳支援ツールについて、一連の操作方法だけではなく、下記のようなポイントをわかりやすく説明されていました。
 
@@ -51,7 +51,7 @@ categories:
 
 高橋先生は、Memsourceの**「習得しやすさ」「操作のわかりやすさ」「トラブルの少なさ」**の3点を特に評価してくださっています。
 
-[![Memsource加藤からのご挨拶](https://www.memsource.com/wp-content/uploads/2018/03/kato-at-fellow-academy-300x225.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/kato-at-fellow-academy.jpg)
+[![Memsource加藤からのご挨拶](/uploads/2018/03/kato-at-fellow-academy-300x225.jpg)](/uploads/2018/03/kato-at-fellow-academy.jpg)
 
 
 
@@ -74,7 +74,7 @@ categories:
 
 
 
-[![翻訳の専門校フェロー・アカデミー](https://www.memsource.com/wp-content/uploads/2018/03/fellowlogo-300x300.jpg)](https://www.memsource.com/wp-content/uploads/2018/03/fellowlogo.jpg)
+[![翻訳の専門校フェロー・アカデミー](/uploads/2018/03/fellowlogo-300x300.jpg)](/uploads/2018/03/fellowlogo.jpg)
 ・フェロー・アカデミーの通学講座では2018年4月期の受講生を募集中です。
 ・通学　実務翻訳コースの受講生は無料でMemsource講習が受講できます。
 ・詳細は[こちら](https://www.fellow-academy.com/fellow/pages/index.jsp)をご覧ください。

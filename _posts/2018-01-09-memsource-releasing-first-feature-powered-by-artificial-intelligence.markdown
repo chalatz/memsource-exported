@@ -35,7 +35,7 @@ Non-translatable segments contain characters, symbols, and words that do not nee
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/Non-translatable-pie-graph.png)](https://www.memsource.com/wp-content/uploads/2018/01/Non-translatable-pie-graph.png)
+[![](/uploads/2018/01/Non-translatable-pie-graph.png)](/uploads/2018/01/Non-translatable-pie-graph.png)
 
 
 
@@ -43,7 +43,7 @@ Testing indicates that among the top 100 language pairings in Memsource Cloud, 1
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/Non-translatable-Segments.png)](https://www.memsource.com/wp-content/uploads/2018/01/Non-translatable-Segments.png)
+[![](/uploads/2018/01/Non-translatable-Segments.png)](/uploads/2018/01/Non-translatable-Segments.png)
 
 
 
@@ -61,7 +61,7 @@ Testing indicates that among the top 100 language pairings in Memsource Cloud, 1
 ## AI-Powered Non-Translatables in Memsource
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)
+[![](/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)](/uploads/2018/01/AI-Non-translatables-Workbench-numbers.png)
 
 
 
@@ -87,7 +87,7 @@ The non-translatables feature can be activated in both the analysis and pre-tran
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Default_Analysis.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Default_Analysis.png)
+[![](/uploads/2018/01/AI-NTs_Default_Analysis.png)](/uploads/2018/01/AI-NTs_Default_Analysis.png)
 
 
 
@@ -95,7 +95,7 @@ The non-translatables feature can be activated in both the analysis and pre-tran
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)
+[![](/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)](/uploads/2018/01/AI-NTs_PreTranslate_Settings-e1517299371288.png)
 
 
 
@@ -103,7 +103,7 @@ The non-translatables feature can be activated in both the analysis and pre-tran
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Non-translatables-Workbench.png)
+[![](/uploads/2018/01/AI-Non-translatables-Workbench.png)](/uploads/2018/01/AI-Non-translatables-Workbench.png)
 
 
 
@@ -111,7 +111,7 @@ The non-translatables feature can be activated in both the analysis and pre-tran
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/03/Net-rate-schemes-NTs.png)](https://www.memsource.com/wp-content/uploads/2018/03/Net-rate-schemes-NTs.png)
+[![](/uploads/2018/03/Net-rate-schemes-NTs.png)](/uploads/2018/03/Net-rate-schemes-NTs.png)
 
 
 
@@ -119,13 +119,13 @@ The non-translatables feature can be activated in both the analysis and pre-tran
 
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)](https://www.memsource.com/wp-content/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)
+[![](/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)](/uploads/2018/01/AI-NTs_Post-Editing_analysis.png)
 
 
 ## The Launch of an AI Team
 
 
-[![](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg)](https://www.memsource.com/wp-content/uploads/2018/01/AI-Team.jpg) The Memsource AI team, led by Dalibor Frívaldský (top, right)
+[![](/uploads/2018/01/AI-Team.jpg)](/uploads/2018/01/AI-Team.jpg) The Memsource AI team, led by Dalibor Frívaldský (top, right)
 
 
 

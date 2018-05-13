@@ -27,7 +27,7 @@ Should you consider upgrading your system to a streamlined cloud-based platform?
 
 Whether you are an IT specialist or not, we can all agree that data security is a top priority. Understandably so, but consider cloud platforms’ advanced, high-level security features such as data encryption and routine backups, providing greater data security than that of an in-house server. A cloud-based platform means that no matter what happens to the hardware, whether it be a stolen laptop or a virus on a PC, your company's data will be safe and sound in the cloud, especially if you utilize security features like Single-sign On or Two-factor Authentication. Additionally, file transfers are more secure because collaborators no longer need to email the data back and forth, running the risk of sensitive information being forwarded or downloaded. All data stays secure within the cloud.
 
-_Memsource upholds the highest standards in security protocols and is certified to comply with the ISO Information Security standard (ISO/IEC27001). You can read more about [Data Security from Memsource (PDF)](https://www.memsource.com/wp-content/uploads/2017/12/Data-Security-EN.pdf).
+_Memsource upholds the highest standards in security protocols and is certified to comply with the ISO Information Security standard (ISO/IEC27001). You can read more about [Data Security from Memsource (PDF)](/uploads/2017/12/Data-Security-EN.pdf).
 _
 
 

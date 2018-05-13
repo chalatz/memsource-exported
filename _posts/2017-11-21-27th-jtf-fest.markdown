@@ -13,7 +13,7 @@ categories:
 
 
 
-[![メディア総合研究所様と共同プレゼン](https://www.memsource.com/wp-content/uploads/2017/11/JTFfest2017Presentors-1-1024x641.png)](https://www.memsource.com/wp-content/uploads/2017/11/JTFfest2017Presentors-1.png)
+[![メディア総合研究所様と共同プレゼン](/uploads/2017/11/JTFfest2017Presentors-1-1024x641.png)](/uploads/2017/11/JTFfest2017Presentors-1.png)
 
 今年も[日本翻訳連盟(JTF)](http://www.jtf.jp/)が主催するJTF翻訳祭の時期が近づいてきました。
 

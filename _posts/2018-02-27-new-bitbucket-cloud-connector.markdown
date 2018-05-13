@@ -16,7 +16,7 @@ tags:
 - Connectors
 ---
 
-![](https://www.memsource.com/wp-content/uploads/2018/02/Bitbucket@2x-blue.png)
+![](/uploads/2018/02/Bitbucket@2x-blue.png)
 
 We now have a connector for the online repository Bitbucket Cloud. <!-- more -->
 

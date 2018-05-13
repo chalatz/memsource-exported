@@ -17,7 +17,7 @@ tags:
 
 Memsource users now have a dedicated space to manage their personal profiles and preferences.<!-- more -->
 
-[![](https://www.memsource.com/wp-content/uploads/2017/10/Drop-down2.png)](https://www.memsource.com/wp-content/uploads/2017/10/Drop-down2.png)The profile can be found in a drop-down menu by clicking on the user’s name in the top right corner in Memsource Cloud. 
+[![](/uploads/2017/10/Drop-down2.png)](/uploads/2017/10/Drop-down2.png)The profile can be found in a drop-down menu by clicking on the user’s name in the top right corner in Memsource Cloud. 
 
 Within the profile page, users can manage several preferences including:
 

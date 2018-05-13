@@ -13,7 +13,7 @@ categories:
 
 
 
-[![ユーザー交流会のお知らせ](https://www.memsource.com/wp-content/uploads/2017/10/59fb2838a4e94_Top-1024x693.jpg)](https://www.memsource.com/wp-content/uploads/2017/10/Top.jpg)
+[![ユーザー交流会のお知らせ](/uploads/2017/10/59fb2838a4e94_Top-1024x693.jpg)](/uploads/2017/10/Top.jpg)
 
 
 
@@ -48,7 +48,7 @@ categories:
 
 など、毎回、うれしいご感想いただいています。
 
-[![JK](/wp-content/uploads/2015/12/JK-300x300.jpg) ![kub](/wp-content/uploads/2015/12/kub-294x300.jpg)](/wp-content/uploads/2015/12/JK.jpg)[　![チェコ料理](https://www.memsource.com/wp-content/uploads/2017/10/czech-embassy-food-300x225.jpg)　](https://www.memsource.com/wp-content/uploads/2017/10/czech-embassy-food.jpg)[![チェコワイン](http://www.memsource.com/wp-content/uploads/2017/05/チェコICT３.jpg)](http://www.memsource.com/wp-content/uploads/2017/05/チェコICT３.jpg)
+[![JK](/wp-content/uploads/2015/12/JK-300x300.jpg) ![kub](/wp-content/uploads/2015/12/kub-294x300.jpg)](/wp-content/uploads/2015/12/JK.jpg)[　![チェコ料理](/uploads/2017/10/czech-embassy-food-300x225.jpg)　](/uploads/2017/10/czech-embassy-food.jpg)[![チェコワイン](http://www.memsource.com/wp-content/uploads/2017/05/チェコICT３.jpg)](http://www.memsource.com/wp-content/uploads/2017/05/チェコICT３.jpg)
 
 最初は 皆様 真剣ですが、毎年、最後はチェコのグラスやワインをめぐるジャンケン大会で盛り上がります。
 

@@ -14,7 +14,7 @@ tags:
 - admins
 ---
 
-[![](https://www.memsource.com/wp-content/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)](https://www.memsource.com/wp-content/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)A new field has been added to the Multilingual XML Import Settings which allows users to specify what the character references should be for different characters in the exported XML file.
+[![](/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)](/uploads/2018/03/MultilingualXML-Settings-Characterentities.png)A new field has been added to the Multilingual XML Import Settings which allows users to specify what the character references should be for different characters in the exported XML file.
 
 For example, if a user wants quotes “ represented as  &quot, this would need to be specified in the Convert to character entities field.
 

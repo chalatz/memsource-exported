@@ -21,7 +21,7 @@ We have prepared a great program and speakers who will give you valuable takea
 
 <!-- more -->
 
-![Donald DePalma](https://www.memsource.com/wp-content/uploads/2016/02/Don-Jacket-300x300.png)
+![Donald DePalma](/uploads/2016/02/Don-Jacket-300x300.png)
 
 **Demand for Translation Services from New Buyers **-** **Donald A. DePalma, Founder at [Common Sense Advisory](http://www.commonsenseadvisory.com/)
 
@@ -29,7 +29,7 @@ While most LSPs strive to land work from localization departments with big budge
 
 
 
-![Joanna Madetko-Niedbała](https://www.memsource.com/wp-content/uploads/2016/02/Joanna.jpg)
+![Joanna Madetko-Niedbała](/uploads/2016/02/Joanna.jpg)
 
 **What Do Translation Buyers Expect from LSPs in 2016? **- Follow-up discussion featuring Joanna Madetko-Niedbała, Digital Project Manager | Global Marketing Communications at [Danfoss](http://www.danfoss.com)
 
