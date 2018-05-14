@@ -32,13 +32,21 @@ algolia:
 
 # Pagination Settings
 pagination:
-  enabled: true
+  enabled: false
   per_page: 20
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.`
+    values:
+      show_image: true  
 
 # Build settings
 markdown: kramdown

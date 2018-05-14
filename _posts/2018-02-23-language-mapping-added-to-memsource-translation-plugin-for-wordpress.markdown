@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-02-23 13:21:49+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/02/23/language-mapping-added-to-memsource-translation-plugin-for-wordpress/
 slug: language-mapping-added-to-memsource-translation-plugin-for-wordpress
 title: Language Mapping Added to Memsource Translation Plugin for WordPress
+page_title: Language Mapping Added to Memsource Translation Plugin for WordPress
 wordpress_id: 22158
 categories:
 - New Features

@@ -10,11 +10,15 @@ layout: default
   {{ content }}
 
   {% include site-categories-list.html %}
-
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in paginator.posts -%}
+      {% if site.pagination.enabled == true %}
+        {% assign posts = paginator.posts %}
+      {% else %}
+        {% assign posts = site.posts %}
+      {% endif %}
+      {%- for post in posts -%}
       <li>
         {% if post.page_title %}
           {% assign post_title = post.page_title %}

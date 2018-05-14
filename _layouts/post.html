@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
 
-    {% if page.image %}
+    {% if page.image and page.show_image == true %}
       <img src="{{ page.image | relative_url }}" alt="">
     {% endif %}
 

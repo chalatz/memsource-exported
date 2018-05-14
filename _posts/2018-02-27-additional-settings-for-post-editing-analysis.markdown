@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-02-27 15:39:50+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/02/27/additional-settings-for-post-editing-analysis/
 slug: additional-settings-for-post-editing-analysis
 title: Additional Settings for Post-editing Analysis
+page_title: Additional Settings for Post-editing Analysis
 wordpress_id: 22240
 categories:
 - New Features
@@ -23,9 +25,9 @@ The analysis settings can be accessed via Setup or within a project when **Anal
 
 To find out more, see our [Post-editing Analysis](https://help.memsource.com/hc/en-us/articles/115003942912) article.
 
+[![](/uploads/2018/02/Post-Editing-Analysis-Options.png)](/uploads/2018/02/Post-Editing-Analysis-Options.png)
 
-
-[![](/uploads/2018/02/Post-Editing-Analysis-Options.png)](/uploads/2018/02/Post-Editing-Analysis-Options.png) _Post-editing Analysis Options_
+_Post-editing Analysis Options_
 
 
 
