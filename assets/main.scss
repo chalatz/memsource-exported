@@ -30,6 +30,12 @@
   margin-bottom: 20px;
 }
 
+.icon-left {
+  float: left;
+  width: 130px;
+  margin-right: 20px;
+}
+
 .clear {
   clear: both;
 }
@@ -43,6 +49,12 @@
 h1, h2, h3, h4, h5, h6 {
   width: 100%;
   clear: both;
+}
+
+.post-header {
+  img {
+    width: 100%;
+  }
 }
 
 .pagination {

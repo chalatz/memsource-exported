@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2017-12-28 07:04:38+00:00
 layout: post
+lang: ja
 link: https://www.memsource.com/ja/blog/2017/12/28/customizable-shortcuts-now-available-in-memsource-desktop-editor/
 slug: customizable-shortcuts-now-available-in-memsource-desktop-editor
-title: Memsource デスクトップエディタのショートカットキーをカスタマイズ
+title: customizable shortcuts now available in memsource desktop editor
+page_title: Memsource デスクトップエディタのショートカットキーをカスタマイズ
 wordpress_id: 20383
 categories:
 - 高度な機能

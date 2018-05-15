@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-01-30 11:05:22+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/01/30/over-1-million-new-words-added-to-memsource-spell-checker-dictionaries/
 slug: over-1-million-new-words-added-to-memsource-spell-checker-dictionaries
 title: Over 1 Million New Words Added to Memsource Spell-checker Dictionaries
+page_title: Over 1 Million New Words Added to Memsource Spell-checker Dictionaries
 wordpress_id: 21140
 categories:
 - New Features

@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-01-30 10:56:01+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/01/30/change-to-microsoft-translator-hub/
 slug: change-to-microsoft-translator-hub
 title: Change to Microsoft Translator Hub
+page_title: Change to Microsoft Translator Hub
 wordpress_id: 21295
 categories:
 - New Features

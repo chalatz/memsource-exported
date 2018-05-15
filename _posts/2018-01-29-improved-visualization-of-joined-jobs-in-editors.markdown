@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-01-29 10:38:04+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/01/29/improved-visualization-of-joined-jobs-in-editors/
 slug: improved-visualization-of-joined-jobs-in-editors
 title: Improved Visualization of Joined Jobs in Editors
+page_title: Improved Visualization of Joined Jobs in Editors
 wordpress_id: 21234
 categories:
 - New Features
@@ -19,23 +21,14 @@ It is now easier to work with combined translation jobs (files) in Memsource Des
 
 This is particularly useful in the following scenarios:
 
-
-
- 	
   * You have joined jobs together and want to visualize the jobs separately in the Editors. See the [joining files](https://help.memsource.com/hc/en-us/articles/115003961951-Join-Files) article in our Help Center for more information.
-
-
 
 
 [![](/uploads/2018/01/joined-P5471-J1-2-3-en-de-T.mxliff-Web-Editor-Google-Chrome-2018-01-29-11.43.47.png)
 ](/uploads/2018/01/joined-P5471-J1-2-3-en-de-T.mxliff-Web-Editor-Google-Chrome-2018-01-29-11.43.47.png)
 
-
-
  	
   * You have split one job into multiple jobs and want to see them combined in the Editors but with the different jobs indicated. Learn more about [splitting files](https://help.memsource.com/hc/en-us/articles/360000259451-Split-File) in our Help Center.
-
-
 
 
 [![](/uploads/2018/01/Split-file.png)](/uploads/2018/01/Split-file.png)

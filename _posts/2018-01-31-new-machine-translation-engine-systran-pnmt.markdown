@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-01-31 10:12:14+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/01/31/new-machine-translation-engine-systran-pnmt/
 slug: new-machine-translation-engine-systran-pnmt
 title: New Machine Translation Engine - Systran PNMT
+page_title: New Machine Translation Engine - Systran PNMT
 wordpress_id: 21336
 categories:
 - New Features

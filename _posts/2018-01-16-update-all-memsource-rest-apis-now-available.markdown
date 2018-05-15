@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2018-01-16 11:23:05+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2018/01/16/update-all-memsource-rest-apis-now-available/
 slug: update-all-memsource-rest-apis-now-available
 title: 'Update: All Memsource REST APIs Now Available'
+page_title: 'Update: All Memsource REST APIs Now Available'
 wordpress_id: 20792
 categories:
 - New Features
