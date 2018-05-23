@@ -11,6 +11,9 @@ layout: default
 
   {% include site-categories-list.html %}
   {%- if site.posts.size > 0 -%}
+    <p>
+      Number of posts: {{ site.posts.size }}
+    </p>
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {% if site.pagination.enabled == true %}
