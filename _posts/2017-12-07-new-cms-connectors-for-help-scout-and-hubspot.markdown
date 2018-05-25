@@ -29,7 +29,6 @@ To set up the Help Scout connector in Memsource, see [our documentation](https:/
 
 ### HubSpot Connector
 
-
 [![](/uploads/2017/12/hubspot-logo-300x87.png)](/uploads/2017/12/hubspot-logo.png){:.float-right} [HubSpot](https://www.hubspot.com/) is a leading sales and marketing automation platform and CRM. The Hubspot connector works in a similar way to the Help Scout connector. It can take files, website pages, landing pages, and forms, pull them to Memsource for translation and then return the translations to the HubSpot system. 
 
 To set up the HubSpot connector in Memsource, see [our documentation](https://wiki.memsource.com/wiki/Connectors#HubSpot). 
