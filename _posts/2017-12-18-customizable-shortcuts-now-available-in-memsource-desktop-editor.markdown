@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2017-12-18 12:15:12+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/12/18/customizable-shortcuts-now-available-in-memsource-desktop-editor/
 slug: customizable-shortcuts-now-available-in-memsource-desktop-editor
 title: Customizable Shortcuts now available in Memsource Desktop Editor
+page_title: Customizable Shortcuts now available in Memsource Desktop Editor
 wordpress_id: 20018
 categories:
 - New Features
@@ -27,7 +29,5 @@ You can also search for actions or keyboard shortcuts.
 [![](/uploads/2017/12/Customizable-shortcuts-gif.gif)](/uploads/2017/12/Customizable-shortcuts-gif.gif)
 
 The new Customizable Shortcuts feature is available in Memsource Desktop Editor 6.208.3. To update to the latest version, quit the Memsource Desktop Editor application and then reopen it - the update will have been automatically downloaded. Alternatively, you can download the latest version from our [download page](https://www.memsource.com/download/).
-
-
 
 Happy holidays and happy translating from the Memsource Team! 

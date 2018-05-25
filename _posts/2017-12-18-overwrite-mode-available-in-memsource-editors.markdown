@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2017-12-18 12:27:50+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/12/18/overwrite-mode-available-in-memsource-editors/
 slug: overwrite-mode-available-in-memsource-editors
 title: Overwrite Mode available in Memsource Editors
+page_title: Overwrite Mode available in Memsource Editors
 wordpress_id: 20021
 categories:
 - New Features
@@ -22,17 +24,11 @@ There is now an Overwrite Mode available in the Memsource Desktop Editor and Mem
 
 ## How to enable Overwrite Mode in the Editors
 
-
-
-
 ### Windows
 
 
 You can do one of the following:
 
-
-
- 	
   * Press the Insert key
 
  	
@@ -41,17 +37,11 @@ You can do one of the following:
  	
   * Select **Overwrite Mode** from the Edit menu.
 
-
-
-
 ### Mac
 
 
 You can do one of the following:
 
-
-
- 	
   * Use the shortcut “Option + o”
 
  	
@@ -59,10 +49,6 @@ You can do one of the following:
 
  	
   * Select **Overwrite Mode** from the Edit menu.
-
-
-
-
 
 ##### [![](/uploads/2017/12/Overwrite-icon-1.png)](/uploads/2017/12/Overwrite-icon-1.png)  Overwrite Mode icon
 
