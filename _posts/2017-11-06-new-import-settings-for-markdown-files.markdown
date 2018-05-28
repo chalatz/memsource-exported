@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2017-11-06 15:09:46+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/11/06/new-import-settings-for-markdown-files/
 slug: new-import-settings-for-markdown-files
 title: New import settings for Markdown files
+page_title: New import settings for Markdown files
 wordpress_id: 19076
 categories:
 - New Features
@@ -14,27 +16,19 @@ tags:
 - admins
 ---
 
-There are now more import options available for Markdown files (Memsource currently supports .md/.markdown extensions).<!-- more -->
+There are now more import options available for Markdown files (Memsource currently supports .md/.markdown extensions).
+<!-- more -->
 
-Memsource users can now: 
+Memsource users can now:  	
+  * Select to import files using either **Plain** or **PHP/Python Extra Markdown** flavors. (Previously, only Plain was supported.)
 
-
-
+  * Select whether **YAML header** should be processed.
  	
-  * Select to import files using either** Plain** or **PHP/Python Extra Markdown** flavors. (Previously, only Plain was supported.)
-
+  * Select whether the text in **code blocks** should be included in the translatable text imported into Memsource. 
  	
-  * Select whether **YAML header **should be processed.
-
+  * Add **custom elements** which are converted into Memsource tags.
  	
-  * Select whether the text in **code blocks **should be included in the translatable text imported into Memsource. 
-
- 	
-  * Add **c****ustom elements** which are converted into Memsource tags.
-
- 	
-  * Define **non-translatable blocks **- sections in the Markdown file that should not be imported.
-
+  * Define **non-translatable blocks** - sections in the Markdown file that should not be imported.
 
 To find out more about importing Markdown files, visit our [documentation](https://wiki.memsource.com/wiki/Markdown).
 

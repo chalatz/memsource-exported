@@ -3,9 +3,11 @@ author: zbynek.fridrich@gmail.com
 comments: true
 date: 2017-10-03 07:25:20+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/10/03/ctrld-now-deletes-everything-from-cursor-position/
 slug: ctrld-now-deletes-everything-from-cursor-position
 title: CTRL+D Now Deletes Everything from Cursor Position
+page_title: CTRL+D Now Deletes Everything from Cursor Position
 wordpress_id: 17572
 categories:
 - New Features

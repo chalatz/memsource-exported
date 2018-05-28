@@ -3,19 +3,17 @@ author: Akira.Popal
 comments: true
 date: 2017-10-26 04:39:13+00:00
 layout: post
+lang: ja
 link: https://www.memsource.com/ja/blog/2017/10/26/user-meetup-tokyo-2017/
 slug: user-meetup-tokyo-2017
-title: チェコ大使館にて無料イベント開催
+title: user meetup tokyo 2017
+page_title: チェコ大使館にて無料イベント開催
 wordpress_id: 17843
 categories:
 - イベント
 ---
 
-
-
 [![ユーザー交流会のお知らせ](/uploads/2017/10/59fb2838a4e94_Top-1024x693.jpg)](/uploads/2017/10/Top.jpg)
-
-
 
 **JTF翻訳祭の翌日、11月30日（木）にチェコ大使館にて無料イベント開催します。**
 
@@ -24,7 +22,7 @@ categories:
 
 **毎回、翻訳の効率化に関心がある方、ユーザーの皆様にご参加頂いています。**
 
-（昨年の交流会の様子は[こちら](https://www.memsource.com/ja/blog/2016/12/12/10147/)、一昨年の交流会は[こちら](https://www.memsource.com/ja/blog/2015/12/02/%e6%9d%b1%e4%ba%ac%e3%81%ab%e3%81%a6%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%bb%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%ba%a4%e6%b5%81%e4%bc%9a%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97/)）
+昨年の交流会の様子は[こちら](https://www.memsource.com/ja/blog/2016/12/12/10147/)、一昨年の交流会は[こちら](https://www.memsource.com/ja/blog/2015/12/02/%e6%9d%b1%e4%ba%ac%e3%81%ab%e3%81%a6%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%bb%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%ba%a4%e6%b5%81%e4%bc%9a%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97/)）
 
 ------------------------------------------------------------------------------------------------------------------
 日時：　11月30日（木）　9時30分～12時(9時10分より受付開始)
@@ -33,14 +31,12 @@ categories:
 （東京メトロ日比谷線「広尾」駅より徒歩10分、JR山手線「恵比寿」駅より徒歩15分）
 
 *12時で終了としていますが、お時間のある方は13時まで会場でご歓談頂けます。
+
 <!-- more -->
 ------------------------------------------------------------------------------------------------------------------
 
-
-
-[お申し込みはこちらから](https://www.memsource.com/ja/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%ba%a4%e6%b5%81%e4%bc%9a-2017%e3%81%b8%e3%81%ae%e3%81%8a%e7%94%b3%e3%81%97%e8%be%bc%e3%81%bf/)
-
-
+{:.center}
+[お申し込みはこちらから](https://www.memsource.com/ja/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%ba%a4%e6%b5%81%e4%bc%9a-2017%e3%81%b8%e3%81%ae%e3%81%8a%e7%94%b3%e3%81%97%e8%be%bc%e3%81%bf/){:.button}
 
 **「メムソースについて疑問に思っている点が直接聞けて良かった！」**
 
@@ -48,21 +44,13 @@ categories:
 
 など、毎回、うれしいご感想いただいています。
 
-[![JK](/wp-content/uploads/2015/12/JK-300x300.jpg) ![kub](/wp-content/uploads/2015/12/kub-294x300.jpg)](/wp-content/uploads/2015/12/JK.jpg)[　![チェコ料理](/uploads/2017/10/czech-embassy-food-300x225.jpg)　](/uploads/2017/10/czech-embassy-food.jpg)[![チェコワイン](http://www.memsource.com/wp-content/uploads/2017/05/チェコICT３.jpg)](http://www.memsource.com/wp-content/uploads/2017/05/チェコICT３.jpg)
+[![JK](/uploads/2015/12/JK-300x300.jpg)](/uploads/2015/12/JK.jpg){:.float-left}
+[![kub](/uploads/2015/12/kub-294x300.jpg)](/uploads/2015/12/JK.jpg){:.float-left}
+[![チェコ料理](/uploads/2017/10/czech-embassy-food-300x225.jpg)](/uploads/2017/10/czech-embassy-food.jpg){:.float-left}
 
 最初は 皆様 真剣ですが、毎年、最後はチェコのグラスやワインをめぐるジャンケン大会で盛り上がります。
 
 **翻訳の効率化にご興味ある方、Memsourceの機能を知りたい方、他のユーザーの翻訳支援ツールやMemsourceの使い方にご興味がある方**、**ぜひご参加ください。**
-
-
-
-
-
-
-
-
-
-
 
 Memsource ユーザー交流会は毎年多くの方にご参加いただいております。
 
@@ -71,19 +59,8 @@ Memsource ユーザー交流会は毎年多くの方にご参加いただいて�
 **ご参加は先着順となります。ご参加ご希望の方はお早めにお申し込みください。**
 
 
-
-
-
-
-
-
-
-
-
 皆様と楽しいひと時を過ごせますことを、一同、楽しみにしております。
 
 **お申し込みは[こちら](https://www.memsource.com/ja/%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e4%ba%a4%e6%b5%81%e4%bc%9a-2017%e3%81%b8%e3%81%ae%e3%81%8a%e7%94%b3%e3%81%97%e8%be%bc%e3%81%bf/)から。**
 
 本イベントに関するご質問などございましたら、　japan@ダミーテキストmemsource.com　までお気軽にご連絡ください。
-
-

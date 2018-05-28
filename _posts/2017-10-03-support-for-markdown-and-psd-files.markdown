@@ -3,9 +3,11 @@ author: zbynek.fridrich@gmail.com
 comments: true
 date: 2017-10-03 07:27:31+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/10/03/support-for-markdown-and-psd-files/
 slug: support-for-markdown-and-psd-files
 title: SUPPORT FOR MARKDOWN AND PSD FILES
+page_title: SUPPORT FOR MARKDOWN AND PSD FILES
 wordpress_id: 17574
 categories:
 - New Features

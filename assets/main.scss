@@ -57,6 +57,23 @@ h1, h2, h3, h4, h5, h6 {
   clear: both;
 }
 
+.button {
+  background: #666;
+  color: #fff;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 8px 16px;
+  border-radius: 6px;
+  margin: 12px auto;
+}
+
+.attention {
+  background-color: #cccccc;
+  text-align: left;
+  vertical-align: middle;
+  padding: 20px 47px;
+}
+
 .post-header {
   img {
     width: 100%;
@@ -73,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 .post {
   overflow: hidden;
   & p {
-    overflow: hidden;
+    //overflow: hidden;
   }
 }
 

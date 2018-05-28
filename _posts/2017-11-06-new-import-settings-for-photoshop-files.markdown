@@ -3,9 +3,11 @@ author: Katie
 comments: true
 date: 2017-11-06 15:08:46+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/11/06/new-import-settings-for-photoshop-files/
 slug: new-import-settings-for-photoshop-files
 title: New import settings for Photoshop files
+page_title: New import settings for Photoshop files
 wordpress_id: 19061
 categories:
 - New Features
@@ -18,8 +20,6 @@ tags:
 Users can now select whether they want text in the hidden and locked layers of an Adobe Photoshop .psd file to be imported into Memsource for translation.
 
 When the translation is complete and the Photoshop file is exported, the hidden and locked layers are restored.
-
-
 
 [![](/uploads/2017/11/PSD_import-2.png)](/uploads/2017/11/PSD_import-2.png)
 
