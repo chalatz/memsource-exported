@@ -3,9 +3,11 @@ author: vaclavb
 comments: true
 date: 2017-09-18 12:14:22+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/09/18/more-frequency-options-for-automated-project-creation-monthly-frequency-2/
 slug: more-frequency-options-for-automated-project-creation-monthly-frequency-2
 title: More Frequency Options for Automated Project Creation - Monthly Frequency
+page_title: More Frequency Options for Automated Project Creation - Monthly Frequency
 wordpress_id: 17842
 categories:
 - New Features

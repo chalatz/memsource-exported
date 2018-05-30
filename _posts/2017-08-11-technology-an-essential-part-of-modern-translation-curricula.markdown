@@ -3,9 +3,12 @@ author: filip.sanca
 comments: true
 date: 2017-08-11 07:00:35+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/08/11/technology-an-essential-part-of-modern-translation-curricula/
 slug: technology-an-essential-part-of-modern-translation-curricula
 title: 'Technology: An Essential Part of Modern Translation Curricula'
+page_title: 'Technology: An Essential Part of Modern Translation Curricula'
+image: /uploads/2017/08/dragos_ciobanu_uol.png
 wordpress_id: 16353
 categories:
 - Memsource Blog
@@ -28,9 +31,7 @@ tags:
 
 “_I have always been really interested in training, technology, and language__s_,” he explains, “_so even after spending five years in the e-learning field, it felt natural to come back to the [**Centre for Translation Studies**](http://www.leeds.ac.uk/arts/info/125053/centre_for_translation_studies)__ (CTS) to manage the MAATS program, establish new relationships with industry partners, and build the team who teaches its project management and computer-assisted translation technologies components_.”
 
-
 ## “The initiative of CAT tool providers to provide free software for educational purposes has an immensely positive impact on the whole industry.”
-
 
 Dragoș’s team joined the Memsource academic program in 2016 because they “_felt that [**Memsource**](http://www.memsource.com/blog/2014/09/26/the-memsource-academic-edition/)** is a mature and highly capable environment,**__ which our students should be familiar with_.”
 
@@ -38,9 +39,7 @@ Dragoș’s team joined the Memsource academic program in 2016 because they “_
 
 “_Being able to experience a full localization workflow, share resources and assets, collaborate on several linguistic and project management tasks, and **learn how to automate the repetitive parts of the process** are all highly valuable skills, which I strongly believe that all linguists should be aware and fully appreciative of_,” Dragoș concluded.
 
-
 ## “It is no longer realistic to expect translation graduates to become successful linguists without a strong understanding of the technologies.”
-
 
 We asked Dragoș **how a present-day translation program should look** and if he could reveal some tips for translation students on how to start and maintain a successful translation career. He provided such thorough answers, we thought it would be wise to save them and release them in their own article - stay tuned...
 
@@ -51,21 +50,15 @@ Dragoș noted that _“it is **no longer realistic** to expect translation gradu
 
 He believes that students should have ample opportunity to practice, break and fix software, and ask questions. This allows them to feel in control of the processes, understand the rationale of the technology, and then influence future optimized implementations.
 
-
 ## A mix of traditional “high-level” fields and vocational training
-
 
 “_The translation **industry is dependent on the optimal use of language technologies,** which do change the way linguists work – starting with more or less helpful segmentation, varying degrees of context available, the propagation of sub-par previous translations, and going as far as requiring **new sets of skills**__ for new roles such as machine translation post-editing_,” he observes.
 
 As a result, the CTS has adjusted its courses accordingly. They have managed to combine the traditional “high-level” fields of translation education with state-of-the-art technology training, which “_in some eyes of the academic community_" is viewed "_as not proper high-level academic training_,” in addition to other elements of vocational preparation. In Leeds, they not only provide their students with **theoretical knowledge** but also **with the practical experience** that has proven to be tremendously helpful to graduates when looking for their place in a fast-paced translation market.
 
-
 ## “You can’t just mention the processes once and expect people to be familiar with them.”
 
-
 Dragoș’s MAATS is a year-long, project-based program where translation theorists meet freelance professionals and technology specialists to provide a **complete vocational and academic education to students**. _“__I am a big fan of the practical applied stuff because this is what students really need as soon as they leave the university_,” he explains, “_but I think it’s going to be good for them if they’re motivated to think about more abstract things as well. Once they get out into the field of work, I am not sure how many opportunities they’ll have to sit back and really think hard about stuff_.”
-
-
 
 ![](http://www.memsource.com/wp-content/uploads/2017/08/Catchbox-1-1024x576.jpg)
 Caption: Guest CTS speakers, Ms. Raisa McNab and Mr. Ryan Bury from [STP](http://stptrans.com/) - Ryan is shown holding a [Catchbox](http://getcatchbox.com/), a powerful tool to [boost students’ in-class engagement](http://elearningbakery.com/teaching-with-the-catchbox-its-working-even-when-its-not-working/#sthash.kNMlby9C.dpbs)[
@@ -73,9 +66,7 @@ Caption: Guest CTS speakers, Ms. Raisa McNab and Mr. Ryan Bury from [STP](http:/
 
 Being advocates for project-based learning in Leeds, they believe that “_you need at least three practice student projects. By the third project, everyone is comfortable and confident. **You really need to practice**__ these skills; you can’t just mention the processes once and expect trainees to be familiar with them_.” Dragoș added that “_students are generally most motivated by realistic tasks_,” so it is necessary to modify the courses accordingly and allow students to practice by **working with NGOs**.
 
-
 ## Programs responsive to current market demand
-
 
 Outside of MAATS, the CTS also offers an [MA in Conference Interpreting and Translation Studies](https://www.leeds.ac.uk/arts/info/125053/centre_for_translation_studies/1803/taught_programmes_cts/3) (MACITS) and an [MA in Audiovisual Translation Studies](https://www.leeds.ac.uk/arts/info/125053/centre_for_translation_studies/1803/taught_programmes_cts/4) (MAAVTS), where “_students acquire captioning, subtitling, and live-captioning skills, and become familiar with leading subtitling and speech recognition tools_”. These have become increasingly important because the British TV channels “_are falling under access requirements and have regulated captioning quotas, which led to__** growing demand.**__ As a consequence, the major subtitling companies now rely exclusively on speech recognition tools_.” Graduates learn that they can gain a substantial professional advantage if they remain **responsive to the current market trends**.
 
@@ -83,16 +74,9 @@ Aside from the aforementioned activities, Dragoș is an active member of the [EM
 
 All in all, the MAATS program outlines precisely how to structure a **modern translation program** that remains responsive to real market needs. This creates highly-capable graduates who become proficient in languages, translation theory, technology, project management, and field expertise. As a result, the **graduates’ employability significantly increases** and the infamous gap between the academia and the industry continues to narrow.
 
-
-
 * * *
 
-
-
-
-
 ## About the author
-
 
 **Filip Šanca** is the Academic Account Manager at Memsource, working with translation professors and students participating in the [Academic Program](http://www.memsource.com/blog/category/academy/) around the world. He is currently working on his master’s degree in Serbian philology at Charles University.
 

@@ -3,9 +3,11 @@ author: zbynek.fridrich@gmail.com
 comments: true
 date: 2017-08-24 06:42:54+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/08/24/project-archive/
 slug: project-archive
 title: Project Archive
+page_title: Project Archive
 wordpress_id: 17540
 categories:
 - New Features

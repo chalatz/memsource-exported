@@ -3,9 +3,11 @@ author: pavelk
 comments: true
 date: 2017-08-30 14:30:46+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/08/30/lqa-in-memsource-editors-2/
 slug: lqa-in-memsource-editors-2
 title: LQA in Memsource Editors
+page_title: LQA in Memsource Editors
 wordpress_id: 17836
 categories:
 - New Features

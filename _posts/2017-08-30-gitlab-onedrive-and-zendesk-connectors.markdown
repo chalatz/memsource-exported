@@ -3,9 +3,11 @@ author: zbynek.fridrich@gmail.com
 comments: true
 date: 2017-08-30 06:50:10+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/08/30/gitlab-onedrive-and-zendesk-connectors/
 slug: gitlab-onedrive-and-zendesk-connectors
 title: Gitlab, Onedrive and Zendesk Connectors
+page_title: Gitlab, Onedrive and Zendesk Connectors
 wordpress_id: 17545
 categories:
 - New Features

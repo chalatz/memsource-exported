@@ -3,9 +3,11 @@ author: zbynek.fridrich@gmail.com
 comments: true
 date: 2017-09-21 07:19:38+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/09/21/reject-jobs-for-ultimate-edition/
 slug: reject-jobs-for-ultimate-edition
 title: Reject Jobs for Ultimate Edition
+page_title: Reject Jobs for Ultimate Edition
 wordpress_id: 17569
 categories:
 - New Features

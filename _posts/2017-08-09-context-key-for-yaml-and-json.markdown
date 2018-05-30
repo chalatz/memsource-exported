@@ -3,9 +3,11 @@ author: vaclavb
 comments: true
 date: 2017-08-09 08:49:38+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/08/09/context-key-for-yaml-and-json/
 slug: context-key-for-yaml-and-json
 title: Context Key for YAML and JSON
+page_title: Context Key for YAML and JSON
 wordpress_id: 16402
 categories:
 - New Features

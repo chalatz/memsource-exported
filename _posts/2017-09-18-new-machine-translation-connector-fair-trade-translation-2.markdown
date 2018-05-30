@@ -3,9 +3,11 @@ author: vaclavb
 comments: true
 date: 2017-09-18 12:07:38+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/09/18/new-machine-translation-connector-fair-trade-translation-2/
 slug: new-machine-translation-connector-fair-trade-translation-2
 title: New Machine Translation Connector - Fair Trade Translation
+page_title: New Machine Translation Connector - Fair Trade Translation
 wordpress_id: 17838
 categories:
 - New Features

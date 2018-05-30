@@ -3,9 +3,11 @@ author: pavelk
 comments: true
 date: 2017-08-18 06:27:00+00:00
 layout: post
+lang: en
 link: https://www.memsource.com/blog/2017/08/18/conversations-in-memsource-editors/
 slug: conversations-in-memsource-editors
 title: Conversations in Memsource Editors
+page_title: Conversations in Memsource Editors
 wordpress_id: 16467
 categories:
 - New Features
