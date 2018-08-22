@@ -14,7 +14,7 @@ sections:
   path: _posts
   label: EN Posts
   create: all
-  match: "**/*"
+  match: "*"
   templates:
   - posts
 - type: directory
