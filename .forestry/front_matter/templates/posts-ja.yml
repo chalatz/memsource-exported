@@ -1,0 +1,77 @@
+---
+label: Posts JA
+hide_body: false
+is_partial: false
+fields:
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: link
+  label: Link
+  type: textarea
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: textarea
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: wordpress_id
+  label: Wordpress id
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: post_format
+  label: Post format
+  type: list
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: lang
+  label: Lang
+  type: text
+  hidden: false
+  default: ''
+- name: page_title
+  label: Page title
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: show_image
+  label: Show image
+  type: boolean
+  hidden: false
+  default: true
+pages:
+
