@@ -11,6 +11,13 @@ sections:
   label: Posts
   create: all
 - type: directory
+  path: _posts
+  label: EN Posts
+  create: all
+  match: "**/*"
+  templates:
+  - posts
+- type: directory
   path: _posts/ja
   label: JA Posts
   create: all
