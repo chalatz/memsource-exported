@@ -13,6 +13,5 @@ excerpt: ''
 lang: ja
 page_title: JA Test post
 image: ''
-published: false
 
 ---
