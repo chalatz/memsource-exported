@@ -73,3 +73,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- _posts/ja/ja-test.md

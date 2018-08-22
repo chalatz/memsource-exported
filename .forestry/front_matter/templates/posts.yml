@@ -89,6 +89,22 @@ fields:
   hidden: false
   default: true
 pages:
+- _posts/ja/2018-03-18-5-benefits-of-using-a-cloud-server.markdown
+- _posts/ja/2018-03-04-customer-stories-wip-japan.markdown
+- _posts/ja/2017-11-21-27th-jtf-fest.markdown
+- _posts/ja/2017-12-27-single-sign-on-in-memsource-cloud.markdown
+- _posts/ja/2017-11-30-export-workflow-changes.markdown
+- _posts/ja/2018-03-04-memsource-releasing-first-feature-powered-by-artificial-intelligence-jp.markdown
+- _posts/ja/2018-03-11-memsource-at-fellow-academy-jp.markdown
+- _posts/ja/2017-10-30-patent-information-fair-tokyo-2017.markdown
+- _posts/ja/2017-08-29-new-comment-feature-jp.markdown
+- _posts/ja/2017-12-05-jtf-fest-and-user-meetup.markdown
+- _posts/ja/2018-01-28-customer-stories-honyaku-shuppan-sha.markdown
+- _posts/ja/2017-10-26-user-meetup-tokyo-2017.markdown
+- _posts/ja/2017-09-12-memsource-editor-lqa-jp.markdown
+- _posts/ja/2017-12-28-customizable-shortcuts-now-available-in-memsource-desktop-editor.markdown
+- _posts/ja/2017-09-28-mt-summit-jp.markdown
+- _posts/ja/2017-09-12-mt-summit-xvi-jp.markdown
 - _posts/ja/2017-09-12-mt-summit-xvi-jp.markdown
 - _posts/ja/2017-09-28-mt-summit-jp.markdown
 - _posts/ja/2017-12-28-customizable-shortcuts-now-available-in-memsource-desktop-editor.markdown
